@@ -63,4 +63,8 @@ Each generated Markdown file will have the following structure:
 ## Skills
 - [Skill 1]
 - [Skill 2]
+
+## Similar to other roles
+- [Similar Role 1](./similar-role-1.md)
+- [Similar Role 2](./similar-role-2.md)
 ```
