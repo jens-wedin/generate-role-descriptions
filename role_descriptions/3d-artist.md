@@ -2,7 +2,7 @@
 ## Description
 Creates three-dimensional models, animations, and visual effects to be used in various digital media.
 
-## Org Level
+## Org Levels
 IC
 
 ## Medium
