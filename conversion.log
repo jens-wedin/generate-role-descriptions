@@ -1,0 +1,161 @@
+2026-01-14 21:49:17,190 - INFO - Starting markdown to CSV conversion from directory: /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions
+2026-01-14 21:49:17,208 - INFO - Successfully processed role: Generative Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/generative-designer.md
+2026-01-14 21:49:17,209 - INFO - Successfully processed role: Director Of Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/director-of-design.md
+2026-01-14 21:49:17,209 - INFO - Successfully processed role: Vp Of Research from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vp-of-research.md
+2026-01-14 21:49:17,209 - INFO - Successfully processed role: Design Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-lead.md
+2026-01-14 21:49:17,209 - INFO - Successfully processed role: Vibe Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vibe-designer.md
+2026-01-14 21:49:17,210 - INFO - Successfully processed role: Designops Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/designops-manager.md
+2026-01-14 21:49:17,210 - INFO - Successfully processed role: Chief Marketing Officer (Cmo) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/chief-marketing-officer-(cmo).md
+2026-01-14 21:49:17,210 - INFO - Successfully processed role: Creative Team Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/creative-team-manager.md
+2026-01-14 21:49:17,210 - INFO - Successfully processed role: Lead Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/lead-designer.md
+2026-01-14 21:49:17,210 - INFO - Successfully processed role: Graphic Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/graphic-designer.md
+2026-01-14 21:49:17,210 - INFO - Successfully processed role: Fashion Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/fashion-designer.md
+2026-01-14 21:49:17,211 - INFO - Successfully processed role: Content Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/content-designer.md
+2026-01-14 21:49:17,211 - INFO - Successfully processed role: Instructional Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/instructional-designer.md
+2026-01-14 21:49:17,211 - INFO - Successfully processed role: Ux Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-lead.md
+2026-01-14 21:49:17,211 - INFO - Successfully processed role: User Experience Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/user-experience-designer.md
+2026-01-14 21:49:17,211 - INFO - Successfully processed role: Digital Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/digital-designer.md
+2026-01-14 21:49:17,211 - INFO - Successfully processed role: Sound Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/sound-designer.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Prompt Engineer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/prompt-engineer.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Ux Director from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-director.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Communications Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/communications-designer.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Product Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/product-designer.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Ux Specialist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-specialist.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Design Technologist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-technologist.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Designops Specialist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/designops-specialist.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Behavioural Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/behavioural-designer.md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: Chief Innovation Officer (Cio) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/chief-innovation-officer-(cio).md
+2026-01-14 21:49:17,212 - INFO - Successfully processed role: User Researcher from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/user-researcher.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Framsynsdesigner (Foresight Designer) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/framsynsdesigner-(foresight-designer).md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Director Of Research from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/director-of-research.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Innovation Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/innovation-lead.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Ai Prompt Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ai-prompt-designer.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/designer.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Information Architect (Ia) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/information-architect-(ia).md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: 3D Artist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/3d-artist.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Design Operations Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-operations-lead.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Transformation Leader from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/transformation-leader.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Director Of Innovation from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/director-of-innovation.md
+2026-01-14 21:49:17,213 - INFO - Successfully processed role: Cmf Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/cmf-designer.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Designops Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/designops-lead.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Creative Technologist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/creative-technologist.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Marketing Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/marketing-designer.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Design Researcher from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-researcher.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Ux Ui Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-ui-lead.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Level Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/level-designer.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Innovation Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/innovation-designer.md
+2026-01-14 21:49:17,214 - INFO - Successfully processed role: Xr Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/xr-designer.md
+2026-01-14 21:49:17,215 - INFO - Successfully processed role: Design Leader from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-leader.md
+2026-01-14 21:49:17,215 - INFO - Successfully processed role: Retail Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/retail-designer.md
+2026-01-14 21:49:17,215 - INFO - Successfully processed role: Design Strategist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-strategist.md
+2026-01-14 21:49:17,215 - INFO - Successfully processed role: Chief Experience Officer (Cxo) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/chief-experience-officer-(cxo).md
+2026-01-14 21:49:17,215 - INFO - Successfully processed role: Staff Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/staff-designer.md
+2026-01-14 21:49:17,215 - INFO - Successfully processed role: Design Director from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-director.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Art Director from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/art-director.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Character Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/character-designer.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Ux Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-designer.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Video Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/video-designer.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Design System Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-system-designer.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Apparel Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/apparel-designer.md
+2026-01-14 21:49:17,216 - INFO - Successfully processed role: Lead Ux Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/lead-ux-designer.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Growth Product Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/growth-product-designer.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Ux Writer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-writer.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Ethical Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ethical-designer.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Motion Graphics Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/motion-graphics-designer.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Ai Prototyping Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ai-prototyping-designer.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Digital Design Director from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/digital-design-director.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Ux Researcher from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-researcher.md
+2026-01-14 21:49:17,217 - INFO - Successfully processed role: Insights Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/insights-lead.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: TillgäNglighets Strateg from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/tillgänglighets-strateg.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: User Research Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/user-research-manager.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Ar Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ar-designer.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Learning Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/learning-designer.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Vp Of Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vp-of-design.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Interaction Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/interaction-designer.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Ux Strategist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-strategist.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Chief Design Officer (Cdo) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/chief-design-officer-(cdo).md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Director Of Ux from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/director-of-ux.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Digital Strategist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/digital-strategist.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Head Of Service Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-service-design.md
+2026-01-14 21:49:17,218 - INFO - Successfully processed role: Exterior Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/exterior-designer.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Vp Of Product Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vp-of-product-design.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Head Of Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-design.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Illustrator 2 from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/illustrator 2.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Design Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-manager.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Voice Ui Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/voice-ui-designer.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Cx Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/cx-lead.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Concept Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/concept-designer.md
+2026-01-14 21:49:17,219 - INFO - Successfully processed role: Principal Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/principal-designer.md
+2026-01-14 21:49:17,220 - INFO - Successfully processed role: Experience Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/experience-designer.md
+2026-01-14 21:49:17,220 - INFO - Successfully processed role: Transformation Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/transformation-lead.md
+2026-01-14 21:49:17,221 - INFO - Successfully processed role: Human Factors Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/human-factors-designer.md
+2026-01-14 21:49:17,221 - INFO - Successfully processed role: Design Engineer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-engineer.md
+2026-01-14 21:49:17,221 - INFO - Successfully processed role: Vp Of Service Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vp-of-service-design.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Content Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/content-manager.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Cx Specialist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/cx-specialist.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Head Of Product Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-product-design.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Email Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/email-designer.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Web Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/web-designer.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Environment Artist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/environment-artist.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Narrative Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/narrative-designer.md
+2026-01-14 21:49:17,222 - INFO - Successfully processed role: Game Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/game-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Ux Ui Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-ui-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Ux Design Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-design-manager.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: System Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/system-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Textile Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/textile-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Accessibility Specialist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/accessibility-specialist.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Context Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/context-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Interior Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/interior-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: 3D Modeler from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/3d-modeler.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Ui Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ui-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Business Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/business-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Head Of Research from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-research.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Exhibition Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/exhibition-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Set Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/set-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Sustainability Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/sustainability-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Brand Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/brand-designer.md
+2026-01-14 21:49:17,223 - INFO - Successfully processed role: Vp Of Ux from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vp-of-ux.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Head Of Ux from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-ux.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Visual Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/visual-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Urban Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/urban-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Design Educator from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-educator.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Accessibility Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/accessibility-lead.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Design Coach from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/design-coach.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Circular Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/circular-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Place Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/place-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Packaging Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/packaging-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Cx Architect from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/cx-architect.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: TillgäNglighets Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/tillgänglighets-lead.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Industrial Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/industrial-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Innovation Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/innovation-manager.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Concept Development Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/concept-development-manager.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Accessibility Strategist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/accessibility-strategist.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Surface Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/surface-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Conversation Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/conversation-designer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Ux Engineer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-engineer.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Experience Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/experience-lead.md
+2026-01-14 21:49:17,224 - INFO - Successfully processed role: Ui Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ui-lead.md
+2026-01-14 21:49:17,225 - INFO - Successfully processed role: Illustrator from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/illustrator.md
+2026-01-14 21:49:17,225 - INFO - Successfully processed role: Service Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/service-designer.md
+2026-01-14 21:49:17,225 - INFO - Successfully processed role: Head Of Innovation from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-innovation.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Ux Architect from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ux-architect.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Vibe Coder from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vibe-coder.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Director Of Product Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/director-of-product-design.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Informations Arkitekt from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/informations-arkitekt.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Innovation Strategist from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/innovation-strategist.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Strategic Transformation Manager from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/strategic-transformation-manager.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Service Design Lead from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/service-design-lead.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Presentation Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/presentation-designer.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Ai Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ai-designer.md
+2026-01-14 21:49:17,226 - INFO - Successfully processed role: Director Of Service Design from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/director-of-service-design.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Chief Digital Officer (Cdo) from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/chief-digital-officer-(cdo).md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Lighting Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/lighting-designer.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Data Visualization Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/data-visualization-designer.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Usability Researcher from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/usability-researcher.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Ergonomics Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/ergonomics-designer.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: World Builder from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/world-builder.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Motion Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/motion-designer.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Vr Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/vr-designer.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Cx Designer from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/cx-designer.md
+2026-01-14 21:49:17,227 - INFO - Successfully processed role: Head Of Customer Experience from /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/role_descriptions/head-of-customer-experience.md
+2026-01-14 21:49:17,232 - INFO - Successfully created CSV file: /Users/jens.wedin/Documents/Visual Studio/generate-role-descriptions/roles_structured.csv
