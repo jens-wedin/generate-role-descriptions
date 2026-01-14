@@ -1,6 +1,7 @@
 # Framsynsdesigner (Foresight Designer)
+
 ## Description
-Uses design to explore and visualize future scenarios.
+A Foresight Designer is a strategic designer who uses design methods to explore, visualize, and shape the future. They are experts in understanding and interpreting the trends and signals that are shaping the future, and in using that understanding to create new products, services, and experiences. They are futurists and storytellers, with a passion for creating a better future.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Service
 Consulting, Public Sector
 
 ## Responsibilities
-- Scan for future signals
-- Create future scenarios
-- Facilitate foresight workshops
-- Design speculative artifacts
+- Scan the horizon for emerging trends, technologies, and social changes.
+- Develop and visualize future scenarios and speculative designs.
+- Facilitate workshops and collaborative sessions to explore the future with clients and stakeholders.
+- Create and use a variety of foresight tools and methods, such as trend analysis, scenario planning, and speculative design.
+- Translate future insights into actionable strategies and opportunities for innovation.
+- Communicate and evangelize a future-oriented mindset within the organization.
 
 ## Skills
-- Strategic Foresight
-- Speculative Design
-- Research
-- Facilitation
-
-## Similar to other roles
-- [Service Designer](service-designer.md)
-- [Design Coach](design-coach.md)
-- [Design Strategist](design-strategist.md)
-- [Chief Innovation Officer (CIO)](chief-innovation-officer-(cio).md)
-- [Transformation Lead](transformation-lead.md)
+- Expertise in strategic foresight, speculative design, and other future-oriented design methods.
+- Strong research, analysis, and synthesis skills.
+- Excellent communication, facilitation, and storytelling skills.
+- A passion for exploring the future and a creative mindset.
+- A portfolio that demonstrates a strong ability to think critically and creatively about the future.
+- Ability to navigate ambiguity and uncertainty.

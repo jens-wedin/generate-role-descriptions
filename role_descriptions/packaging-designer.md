@@ -1,6 +1,7 @@
 # Packaging Designer
+
 ## Description
-Designs the packaging for products.
+A Packaging Designer is a creative professional who specializes in the design of packaging for a wide range of products. They are responsible for creating packaging that is not only visually appealing, but also functional, manufacturable, and sustainable. They are masters of the three-dimensional canvas, with a deep understanding of materials, printing processes, and the psychology of consumer behavior.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Physical
 FMCG, Retail
 
 ## Responsibilities
-- Create dielines
-- Design package graphics
-- Select materials
-- Ensure print readiness
+- Design and create a wide range of packaging, from food and beverage packaging to consumer electronics packaging.
+- Collaborate with clients, marketers, and other stakeholders to understand project goals and requirements.
+- Develop and execute packaging design concepts from initial sketch to final production.
+- Stay current with the latest trends and best practices in packaging design.
+- Prepare files for print production.
+- Manage multiple projects and deadlines.
 
 ## Skills
-- Print Design
-- 3D Visualization
-- Materials
-- Illustrator
-
-## Similar to other roles
-- [CMF Designer](cmf-designer.md)
-- [Industrial Designer](industrial-designer.md)
-- [Interior Designer](interior-designer.md)
-- [Surface Designer](surface-designer.md)
-- [Textile Designer](textile-designer.md)
+- Expertise in graphic design principles, including typography, color theory, and layout.
+- Proficiency in design software, such as Adobe Creative Suite (Illustrator, Photoshop, InDesign).
+- A strong portfolio that showcases a range of packaging design skills and a commitment to quality.
+- Excellent communication and collaboration skills.
+- A creative mindset and a passion for packaging.
+- Meticulous attention to detail.

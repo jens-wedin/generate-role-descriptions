@@ -1,6 +1,7 @@
 # Sustainability Designer
+
 ## Description
-Incorporates sustainable practices into design processes.
+A Sustainability Designer is a creative professional who is committed to designing products, services, and systems that are environmentally and socially responsible. They are experts in sustainable design principles, with a deep understanding of the entire lifecycle of a product, from material extraction to end-of-life. They are passionate about creating a better future for people and the planet.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Service
 Consulting, Manufacturing
 
 ## Responsibilities
-- Assess environmental impact
-- Recommend sustainable materials
-- Design for circularity
-- Educate teams
+- Design products, services, and systems that are environmentally and socially responsible.
+- Conduct life cycle assessments and other analyses to understand the environmental and social impact of designs.
+- Select and specify sustainable materials and manufacturing processes.
+- Collaborate with a wide range of stakeholders to integrate sustainability into the design process.
+- Stay current with the latest trends and best practices in sustainable design.
+- Advocate for a more sustainable and equitable future.
 
 ## Skills
-- Sustainability
-- LCA
-- Material Science
-- Systems Thinking
-
-## Similar to other roles
-- [Circular Designer](circular-designer.md)
-- [Context Designer](context-designer.md)
-- [Business Designer](business-designer.md)
-- [Design Coach](design-coach.md)
-- [Design Researcher](design-researcher.md)
+- A deep understanding of sustainable design principles and practices.
+- Expertise in a variety of sustainable design tools and methodologies, such as life cycle assessment and cradle-to-cradle design.
+- Strong research, analysis, and synthesis skills.
+- Excellent communication and collaboration skills.
+- A passion for sustainability and a creative mindset.
+- A portfolio that demonstrates a strong commitment to sustainable design.

@@ -1,6 +1,7 @@
 # Art Director
+
 ## Description
-Responsible for the visual style and images in magazines, newspapers, product packaging, and movie and television productions.
+An Art Director is a creative leader who is responsible for the overall visual style and direction of a project. They work across a variety of industries, including advertising, marketing, publishing, film, and video games, to create a cohesive and compelling visual identity. They are visionaries who guide a team of designers to bring ideas to life.
 
 ## Org Level
 Strategic
@@ -12,20 +13,18 @@ Digital
 Agency, Marketing, Entertainment
 
 ## Responsibilities
-- Determine how to best represent a concept visually
-- Determine which photographs, art, or other design elements to use
-- Develop the overall look or style of a publication, an advertising campaign, or a theater, television, or film set
-- Manage design staff
+- Develop and execute the visual concept and style for projects, from initial mood boards to final execution.
+- Lead and mentor a team of designers, illustrators, and photographers.
+- Collaborate with clients, marketing teams, and other stakeholders to understand project goals and requirements.
+- Oversee the creation of all visual assets, ensuring they are on-brand and meet a high standard of quality.
+- Manage project timelines, budgets, and resources for the creative team.
+- Present creative concepts and strategies to clients and internal stakeholders.
 
 ## Skills
-- Visual Design
-- Leadership
-- Communication
-- Creativity
-
-## Similar to other roles
-- [Designer](designer.md)
-- [Design Lead](design-lead.md)
-- [Lead Designer](lead-designer.md)
-- [Digital Design Director](digital-design-director.md)
-- [Staff Designer](staff-designer.md)
+- Strong artistic and creative vision.
+- Excellent leadership and team management abilities.
+- Proficiency in design software such as Adobe Creative Suite.
+- Strong communication, presentation, and interpersonal skills.
+- A deep understanding of branding, typography, and visual storytelling.
+- Ability to think strategically and translate business goals into creative solutions.
+- Experience in managing creative projects from concept to completion.

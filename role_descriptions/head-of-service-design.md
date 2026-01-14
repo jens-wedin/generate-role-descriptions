@@ -1,6 +1,7 @@
 # Head of Service Design
+
 ## Description
-Leads the service design practice.
+A Head of Service Design is a senior leader who is responsible for the overall service design vision, strategy, and execution for a company. They are a visionary and a mentor, with a passion for building and leading high-performing service design teams. They are responsible for setting the bar for service design excellence and for ensuring that the service design team is creating end-to-end service experiences that are both user-friendly and valuable to the business.
 
 ## Org Level
 Strategic
@@ -12,20 +13,18 @@ Service
 Service, Gov
 
 ## Responsibilities
-- Establish service design standards
-- Lead service transformation
-- Manage service designers
-- Stakeholder management
+- Develop and articulate the service design vision and strategy for the organization.
+- Lead and mentor a team of service designers, providing guidance, feedback, and career development.
+- Oversee the design of all service experiences, ensuring a high standard of quality, consistency, and user-friendliness.
+- Collaborate with other leaders in product, marketing, and operations to ensure a cohesive and integrated service experience.
+- Champion a human-centered and systems-thinking approach to service design.
+- Attract, hire, and retain top service design talent.
+- Stay current with the latest trends and best practices in service design.
 
 ## Skills
-- Service Design
-- Leadership
-- Systems Thinking
-- Strategy
-
-## Similar to other roles
-- [Director of Service Design](director-of-service-design.md)
-- [Service Design Lead](service-design-lead.md)
-- [VP of Service Design](vp-of-service-design.md)
-- [Principal Designer](principal-designer.md)
-- [Design Director](design-director.md)
+- Strong leadership and team management skills.
+- Deep expertise in service design, systems thinking, and user research.
+- A compelling portfolio of work that demonstrates a commitment to service design excellence.
+- Excellent communication, presentation, and storytelling skills.
+- Strong strategic thinking and business acumen.
+- A passion for building and mentoring high-performing service design teams.

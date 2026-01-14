@@ -1,6 +1,7 @@
 # Industrial Designer
+
 ## Description
-Designs physical products considering aesthetics, function, and manufacturing.
+An Industrial Designer is a creative professional who designs the physical products that we use every day, from cars and furniture to consumer electronics and medical devices. They are problem-solvers who use their skills in design, engineering, and art to create products that are not only beautiful, but also functional, manufacturable, and user-friendly. They are passionate about creating products that improve people's lives.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Physical
 Manufacturing, Tech
 
 ## Responsibilities
-- Sketch product concepts
-- Build physical prototypes
-- Create 3D CAD models
-- Collaborate with engineers
+- Develop and sketch a wide range of product concepts.
+- Create detailed 3D models and renderings of product designs.
+- Build and test physical prototypes to evaluate the form, function, and ergonomics of designs.
+- Collaborate with engineers, marketers, and other stakeholders to ensure that product designs are both innovative and manufacturable.
+- Select and specify materials and finishes for products.
+- Stay current with the latest trends and technologies in industrial design.
 
 ## Skills
-- CAD (SolidWorks/Rhino)
-- Sketching
-- Prototyping
-- Materials
-
-## Similar to other roles
-- [AI Designer](ai-designer.md)
-- [AI Prototyping Designer](ai-prototyping-designer.md)
-- [AR Designer](ar-designer.md)
-- [Creative Technologist](creative-technologist.md)
-- [Design Engineer](design-engineer.md)
+- Exceptional sketching and 3D modeling skills.
+- A deep understanding of form, function, and ergonomics.
+- Expertise in 3D modeling and rendering software, such as SolidWorks, Rhino, or KeyShot.
+- A strong sense of aesthetics and a passion for creating beautiful and innovative products.
+- Excellent communication and collaboration skills.
+- A portfolio that showcases a strong ability to create compelling and innovative product designs.

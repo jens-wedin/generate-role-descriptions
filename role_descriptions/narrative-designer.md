@@ -1,6 +1,7 @@
 # Narrative Designer
+
 ## Description
-Designs the story and narrative structure of a game.
+A Narrative Designer is a writer and designer who specializes in the creation of stories and narrative experiences for interactive media, such as video games. They are responsible for designing the overall narrative structure, characters, and dialogue of a game, as well as for integrating the story with the gameplay. They are passionate about creating immersive and emotionally resonant experiences for players.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Digital
 Gaming
 
 ## Responsibilities
-- Write scripts and dialogue
-- Design narrative branching
-- Integrate story with gameplay
-- Create world lore
+- Design and document the overall narrative structure of a game.
+- Create and develop the characters, world, and lore of a game.
+- Write dialogue, scripts, and other in-game text.
+- Collaborate with game designers, artists, and programmers to integrate the narrative with the gameplay.
+- Playtest and provide feedback on the game to ensure a high-quality narrative experience.
+- Stay current with the latest trends and best practices in narrative design.
 
 ## Skills
-- Writing
-- Game Design
-- Narrative Structure
-- Collaboration
-
-## Similar to other roles
-- [Level Designer](level-designer.md)
-- [System Designer](system-designer.md)
-- [Instructional Designer](instructional-designer.md)
-- [Prompt Engineer](prompt-engineer.md)
-- [UX Writer](ux-writer.md)
+- Exceptional writing, editing, and storytelling skills.
+- A deep understanding of narrative design principles and techniques.
+- Excellent communication and collaboration skills.
+- A passion for playing and making games.
+- Experience with a variety of narrative design tools and technologies is often a plus.
+- A portfolio that demonstrates a strong understanding of narrative design and a creative mindset.

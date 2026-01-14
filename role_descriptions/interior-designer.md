@@ -1,6 +1,7 @@
 # Interior Designer
+
 ## Description
-Designs functional and aesthetic indoor spaces.
+An Interior Designer is a creative professional who designs and creates functional and aesthetically pleasing interior spaces. They are experts in space planning, color theory, and materials, and they use that knowledge to create spaces that are not only beautiful, but also safe, comfortable, and efficient. They are passionate about creating spaces that enhance the lives of the people who use them.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Physical
 Architecture, Real Estate
 
 ## Responsibilities
-- Space planning
-- Select furniture and finishes
-- Create 3D visualizations
-- Manage fit-out
+- Develop and execute design concepts for a wide range of interior spaces, from residential to commercial.
+- Create detailed drawings, plans, and specifications for interior designs.
+- Select and specify furniture, fixtures, and materials.
+- Collaborate with architects, contractors, and other professionals to ensure that designs are implemented correctly.
+- Manage project budgets and timelines.
+- Stay current with the latest trends and best practices in interior design.
 
 ## Skills
-- AutoCAD/Revit
-- Space Planning
-- Materials
-- Rendering
-
-## Similar to other roles
-- [CMF Designer](cmf-designer.md)
-- [Industrial Designer](industrial-designer.md)
-- [Packaging Designer](packaging-designer.md)
-- [Textile Designer](textile-designer.md)
-- [3D Artist](3d-artist.md)
+- A strong sense of style and a deep understanding of design principles.
+- Expertise in space planning, color theory, and materials.
+- Proficiency in design software, such as AutoCAD, Revit, or SketchUp.
+- Excellent communication, presentation, and project management skills.
+- A passion for creating beautiful and functional interior spaces.
+- A portfolio that showcases a strong ability to design and execute interior design projects.

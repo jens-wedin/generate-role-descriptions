@@ -1,6 +1,7 @@
 # Chief Design Officer (CDO)
+
 ## Description
-Executive responsible for overseeing all design and innovation aspects of an organization.
+A Chief Design Officer (CDO) is a senior executive responsible for a company's overall design strategy and execution. They champion a human-centered design philosophy at the highest level of the organization, ensuring that design is a key driver of business success and innovation. The CDO is a visionary leader who elevates the role of design in creating exceptional products, services, and brand experiences.
 
 ## Org Level
 Strategic
@@ -12,20 +13,19 @@ Service
 Tech, Enterprise
 
 ## Responsibilities
-- Set company-wide design strategy
-- Champion design culture in the C-suite
-- Oversee multiple design departments
-- Align design with business goals
+- Define and articulate the company's design vision, strategy, and principles.
+- Lead and inspire a high-performing design organization, including product design, user research, and brand design.
+- Act as the primary advocate for the user at the executive level.
+- Collaborate with the CEO, CPO, and other C-suite executives to align design with business goals and product strategy.
+- Foster a strong design culture that values creativity, collaboration, and user-centricity.
+- Oversee the design of the entire customer journey, ensuring a cohesive and delightful experience.
+- Drive innovation by applying design thinking to complex business challenges.
 
 ## Skills
-- Executive Leadership
-- Business Strategy
-- Vision Setting
-- Organizational Design
-
-## Similar to other roles
-- [VP of Design](vp-of-design.md)
-- [Business Designer](business-designer.md)
-- [Director of Design](director-of-design.md)
-- [Accessibility Strategist](accessibility-strategist.md)
-- [CX Architect](cx-architect.md)
+- Proven track record of leading and scaling design teams in a fast-paced, innovative environment.
+- Deep expertise in human-centered design, user research, and product design.
+- Exceptional leadership, communication, and storytelling abilities.
+- Strong business acumen and the ability to connect design to business outcomes.
+- Experience in building and nurturing a world-class design culture.
+- A compelling portfolio of work that demonstrates a commitment to design excellence and innovation.
+- Ability to influence and build consensus at all levels of the organization.

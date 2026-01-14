@@ -1,6 +1,7 @@
 # Design Lead
+
 ## Description
-Leads the design execution for a specific product or project.
+A Design Lead is a senior designer who is responsible for the design execution and quality for a specific product, project, or team. They are a hands-on leader who is both a skilled designer and a mentor to other designers. They are responsible for ensuring that the design work is aligned with the project's goals, and for guiding the team to create a high-quality, user-centered experience.
 
 ## Org Level
 Craft Lead
@@ -12,20 +13,17 @@ Digital
 Tech, Agency
 
 ## Responsibilities
-- Oversee design quality
-- Guide junior designers
-- Collaborate with PMs and Devs
-- Hands-on design work
+- Lead the design of a specific product, project, or feature from concept to completion.
+- Provide guidance, feedback, and mentorship to other designers on the team.
+- Collaborate with product managers, engineers, and other stakeholders to ensure a cohesive and user-centered product.
+- Facilitate design critiques and reviews to ensure a high standard of quality.
+- Advocate for the user and for design best practices.
+- Contribute to the development of the design team's culture and processes.
 
 ## Skills
-- Leadership
-- Product Design
-- Communication
-- Critique
-
-## Similar to other roles
-- [Lead Designer](lead-designer.md)
-- [UX Lead](ux-lead.md)
-- [UX/UI Lead](ux-ui-lead.md)
-- [Art Director](art-director.md)
-- [Design Leader](design-leader.md)
+- Expertise in a variety of design disciplines, such as UX design, product design, or visual design.
+- Strong leadership and mentoring skills.
+- Excellent communication, collaboration, and presentation skills.
+- A passion for creating high-quality, user-centered experiences.
+- A strong portfolio that demonstrates a deep understanding of the design process and a track record of success.
+- Ability to provide and receive constructive feedback.

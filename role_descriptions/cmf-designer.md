@@ -1,6 +1,7 @@
 # CMF Designer
+
 ## Description
-Specializes in Color, Material, and Finish design for physical products.
+A CMF (Color, Material, Finish) Designer is a specialist who focuses on the aesthetic and tactile qualities of a product. They are responsible for selecting and defining the colors, materials, and finishes that are applied to a product's surface. CMF Designers play a crucial role in creating a product's personality, perceived quality, and emotional appeal.
 
 ## Org Level
 IC
@@ -12,20 +13,18 @@ Physical
 Automotive, Consumer Electronics
 
 ## Responsibilities
-- Research color and material trends
-- Create material boards and samples
-- Define CMF specifications for manufacturing
-- Collaborate with industrial designers
+- Research and analyze trends in color, materials, and finishes.
+- Develop CMF strategies and concepts that align with the brand and product vision.
+- Create mood boards, material samples, and other visual tools to communicate CMF direction.
+- Work closely with industrial designers and engineers to ensure CMF specifications are achievable and meet quality standards.
+- Collaborate with suppliers to source and develop new materials and finishes.
+- Create detailed CMF documentation and specifications for manufacturing.
 
 ## Skills
-- Trend Forecasting
-- Materials
-- Color Theory
-- Rendering
-
-## Similar to other roles
-- [Interior Designer](interior-designer.md)
-- [Industrial Designer](industrial-designer.md)
-- [Packaging Designer](packaging-designer.md)
-- [Surface Designer](surface-designer.md)
-- [Textile Designer](textile-designer.md)
+- A keen eye for color, texture, and detail.
+- Strong understanding of materials, manufacturing processes, and finishing techniques.
+- Ability to forecast and translate trends into compelling CMF strategies.
+- Proficiency in 2D and 3D design software (e.g., Adobe Creative Suite, KeyShot).
+- Excellent communication and presentation skills.
+- A strong portfolio showcasing a deep understanding of CMF design.
+- Meticulous attention to detail and a passion for quality.

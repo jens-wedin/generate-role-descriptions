@@ -1,6 +1,7 @@
 # Head of Innovation
+
 ## Description
-Leads innovation strategy and execution.
+A Head of Innovation is a senior leader who is responsible for fostering a culture of innovation and driving the development of new products, services, and business models. They are tasked with managing the process of innovation, from ideation and experimentation to implementation and scaling. The Head of Innovation is a catalyst for change and a champion of new ideas.
 
 ## Org Level
 Strategic
@@ -12,20 +13,18 @@ Service
 Enterprise, Consulting
 
 ## Responsibilities
-- Manage innovation portfolio
-- Lead R&D teams
-- Drive culture of innovation
-- Secure funding
+- Develop and lead the company's innovation strategy and portfolio.
+- Foster a culture that encourages creativity, experimentation, and risk-taking.
+- Establish and manage an innovation pipeline, from sourcing ideas to launching new ventures.
+- Identify and explore emerging technologies, trends, and business models.
+- Build and maintain relationships with external partners, such as startups, universities, and research labs.
+- Lead and mentor a team of innovation professionals.
+- Secure funding and resources for innovation projects.
 
 ## Skills
-- Innovation Management
-- Strategy
-- Leadership
-- Business Development
-
-## Similar to other roles
-- [Director of innovation](director-of-innovation.md)
-- [Chief Innovation Officer (CIO)](chief-innovation-officer-(cio).md)
-- [Director of Design](director-of-design.md)
-- [Director of Research](director-of-research.md)
-- [Design Leader](design-leader.md)
+- Proven experience in innovation management, corporate venturing, or a related field.
+- Strong strategic thinking and business acumen.
+- A deep understanding of innovation methodologies, such as design thinking, lean startup, and open innovation.
+- Excellent leadership, communication, and influencing skills.
+- A passion for exploring new ideas and challenging the status quo.
+- Ability to thrive in a fast-paced, ambiguous, and dynamic environment.

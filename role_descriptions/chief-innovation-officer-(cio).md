@@ -1,6 +1,7 @@
 # Chief Innovation Officer (CIO)
+
 ## Description
-Executive in charge of managing the process of innovation and change management.
+A Chief Innovation Officer (CIO) is a senior executive responsible for fostering a culture of innovation and driving the development of new products, services, and business models. They are tasked with managing the process of innovation, from ideation and experimentation to implementation and scaling. The CIO is a catalyst for change and a champion of new ideas.
 
 ## Org Level
 Strategic
@@ -12,20 +13,18 @@ Service
 Enterprise, Consulting
 
 ## Responsibilities
-- Foster a culture of innovation
-- Manage innovation portfolios
-- Identify strategic partnerships
-- Lead R&D initiatives
+- Develop and lead the company's innovation strategy and portfolio.
+- Foster a culture that encourages creativity, experimentation, and risk-taking.
+- Establish and manage an innovation pipeline, from sourcing ideas to launching new ventures.
+- Identify and explore emerging technologies, trends, and business models.
+- Build and maintain relationships with external partners, such as startups, universities, and research labs.
+- Lead and mentor a team of innovation professionals.
+- Secure funding and resources for innovation projects.
 
 ## Skills
-- Innovation Management
-- Strategic Foresight
-- Leadership
-- R&D
-
-## Similar to other roles
-- [Director of innovation](director-of-innovation.md)
-- [Head of Innovation](head-of-innovation.md)
-- [Director of Design](director-of-design.md)
-- [Director of Research](director-of-research.md)
-- [Chief Digital Officer (CDO)](chief-digital-officer-(cdo).md)
+- Proven experience in innovation management, corporate venturing, or a related field.
+- Strong strategic thinking and business acumen.
+- A deep understanding of innovation methodologies, such as design thinking, lean startup, and open innovation.
+- Excellent leadership, communication, and influencing skills.
+- A passion for exploring new ideas and challenging the status quo.
+- Ability to thrive in a fast-paced, ambiguous, and dynamic environment.

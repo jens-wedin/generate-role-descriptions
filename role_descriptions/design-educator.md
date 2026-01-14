@@ -1,6 +1,7 @@
 # Design Educator
+
 ## Description
-Teaches design principles and skills in academic or corporate settings.
+A Design Educator is a design professional who is passionate about teaching and sharing their knowledge with others. They work in a variety of settings, from universities and colleges to corporate training programs and online learning platforms. They are dedicated to helping the next generation of designers develop the skills, knowledge, and mindset they need to succeed in the field.
 
 ## Org Level
 IC
@@ -12,20 +13,17 @@ Service
 Education, Tech
 
 ## Responsibilities
-- Develop curriculum
-- Teach classes/workshops
-- Grade and critique work
-- Stay current with industry trends
+- Develop and deliver engaging and effective design curriculum and course materials.
+- Teach a variety of design subjects, such as design history, theory, and practice.
+- Provide students with feedback and guidance on their work.
+- Mentor and advise students on their career paths.
+- Stay current with the latest trends and best practices in design and design education.
+- Contribute to the design community through writing, speaking, and other activities.
 
 ## Skills
-- Teaching
-- Curriculum Design
-- Public Speaking
-- Design Theory
-
-## Similar to other roles
-- [Instructional Designer](instructional-designer.md)
-- [Accessibility Strategist](accessibility-strategist.md)
-- [Behavioural Designer](behavioural-designer.md)
-- [Business Designer](business-designer.md)
-- [Context Designer](context-designer.md)
+- Deep expertise in a variety of design disciplines.
+- Strong teaching and presentation skills.
+- A passion for sharing knowledge and helping others learn.
+- Excellent communication and interpersonal skills.
+- A patient and empathetic approach to teaching.
+- Experience in the design industry is often a plus.

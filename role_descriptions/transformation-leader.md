@@ -1,6 +1,7 @@
 # Transformation Leader
+
 ## Description
-Champion for change and transformation.
+A Transformation Leader is a senior leader who is responsible for the overall transformation vision, strategy, and execution for a company. They are a visionary and a mentor, with a passion for building and leading high-performing transformation teams. They are responsible for setting the bar for transformation excellence and for ensuring that the transformation team is creating a more agile, innovative, and customer-centric organization.
 
 ## Org Level
 Craft Lead
@@ -12,20 +13,18 @@ Service
 Enterprise
 
 ## Responsibilities
-- Drive change agenda
-- Mobilize teams
-- Communicate vision
-- Overcome resistance
+- Develop and articulate the transformation vision and strategy for the organization.
+- Lead and mentor a team of transformation specialists, providing guidance, feedback, and career development.
+- Oversee the execution of all transformation initiatives, ensuring a high standard of quality and consistency.
+- Collaborate with other leaders to ensure a cohesive and integrated transformation.
+- Champion a culture of transformation throughout the organization.
+- Attract, hire, and retain top transformation talent.
+- Stay current with the latest trends and best practices in transformation.
 
 ## Skills
-- Leadership
-- Communication
-- Change Management
-- Influence
-
-## Similar to other roles
-- [Design Leader](design-leader.md)
-- [Strategic Transformation Manager](strategic-transformation-manager.md)
-- [Chief Digital Officer (CDO)](chief-digital-officer-(cdo).md)
-- [Transformation Lead](transformation-lead.md)
-- [Design Lead](design-lead.md)
+- Strong leadership and team management skills.
+- Deep expertise in transformation methodologies, such as change management, business process reengineering, and organizational design.
+- A compelling track record of success in leading large-scale transformation initiatives.
+- Excellent communication, presentation, and storytelling skills.
+- Strong strategic thinking and business acumen.
+- A passion for building and mentoring high-performing transformation teams.

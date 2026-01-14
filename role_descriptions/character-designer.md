@@ -1,6 +1,7 @@
 # Character Designer
+
 ## Description
-Visualizes and designs characters for games, animation, and media.
+A Character Designer is a specialized artist who brings characters to life through visual design. They are responsible for creating the appearance, personality, and style of characters for a variety of media, including animation, video games, comic books, and toys. They are storytellers who use their artistic skills to create memorable and believable characters.
 
 ## Org Level
 IC
@@ -12,20 +13,18 @@ Digital
 Gaming, Animation
 
 ## Responsibilities
-- Create character sketches and turnarounds
-- Define character personality through visuals
-- Collaborate with writers and animators
-- Iterate based on art direction
+- Develop character concepts and ideas based on scripts, briefs, and art direction.
+- Create detailed character designs, including turnarounds, expression sheets, and costume designs.
+- Explore different visual styles and techniques to find the right look for each character.
+- Collaborate with writers, animators, and modelers to ensure characters are designed for their intended purpose.
+- Iterate on designs based on feedback from the creative team.
+- Research and gather reference materials to inform character designs.
 
 ## Skills
-- Illustration
-- Anatomy
-- Visual Storytelling
-- Concept Art
-
-## Similar to other roles
-- [3D Modeler](3d-modeler.md)
-- [Data Visualization Designer](data-visualization-designer.md)
-- [3D Artist](3d-artist.md)
-- [AR Designer](ar-designer.md)
-- [Concept Designer](concept-designer.md)
+- Exceptional drawing and illustration skills.
+- Strong understanding of anatomy, gesture, and form.
+- Ability to convey personality and emotion through character design.
+- Proficiency in digital art software such as Photoshop, Procreate, or Clip Studio Paint.
+- Creativity and a strong imagination.
+- Excellent communication and collaboration skills.
+- A portfolio showcasing a strong sense of character and personality in your work.
