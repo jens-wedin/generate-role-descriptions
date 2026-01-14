@@ -1,0 +1,3929 @@
+[
+  {
+    "id": "3d-artist",
+    "title": "3D Artist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Entertainment",
+      "Tech"
+    ],
+    "description": "Creates three-dimensional models, animations, and visual effects to be used in various digital media.",
+    "responsibilities": [
+      "Create high-quality 3D models and textures",
+      "Collaborate with animators and developers",
+      "Optimize assets for performance",
+      "Maintain consistent art style"
+    ],
+    "skills": [
+      "Maya/Blender",
+      "Texturing",
+      "Lighting",
+      "Rendering"
+    ]
+  },
+  {
+    "id": "3d-modeler",
+    "title": "3D Modeler",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Architecture",
+      "Tech"
+    ],
+    "description": "Specializes in building 3D characters, environments, and objects based on concept art.",
+    "responsibilities": [
+      " sculpt and model characters and props",
+      "Create UV maps and textures",
+      "Ensure topology is suitable for animation",
+      "Work within polygon count limits"
+    ],
+    "skills": [
+      "ZBrush",
+      "Topology",
+      "Hard Surface Modeling",
+      "Anatomy"
+    ]
+  },
+  {
+    "id": "accessibility-lead",
+    "title": "Accessibility Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Government",
+      "Agency"
+    ],
+    "description": "Leads efforts to ensure products and services are accessible to users of all abilities.",
+    "responsibilities": [
+      "Audit products for WCAG compliance",
+      "Train teams on accessible design principles",
+      "Advocate for inclusive design practices",
+      "Define accessibility roadmaps"
+    ],
+    "skills": [
+      "WCAG",
+      "Inclusive Design",
+      "Screen Readers",
+      "Mentorship"
+    ]
+  },
+  {
+    "id": "accessibility-specialist",
+    "title": "Accessibility Specialist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Consulting"
+    ],
+    "description": "Focuses on testing and implementing accessibility standards within digital products.",
+    "responsibilities": [
+      "Conduct accessibility audits",
+      "Provide technical guidance to developers",
+      "Perform testing with assistive technologies",
+      "Document accessibility requirements"
+    ],
+    "skills": [
+      "WCAG 2.1",
+      "HTML/ARIA",
+      "Assistive Tech",
+      "Testing"
+    ]
+  },
+  {
+    "id": "accessibility-strategist",
+    "title": "Accessibility Strategist",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Develops long-term strategies to integrate accessibility into organizational processes.",
+    "responsibilities": [
+      "Develop accessibility policies",
+      "Create organizational training programs",
+      "Measure impact of inclusive practices",
+      "Coordinate across departments"
+    ],
+    "skills": [
+      "Strategy",
+      "Policy Making",
+      "Stakeholder Management",
+      "Change Management"
+    ]
+  },
+  {
+    "id": "ai-designer",
+    "title": "AI Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Innovation"
+    ],
+    "description": "Designs user experiences and interactions specifically for artificial intelligence systems.",
+    "responsibilities": [
+      "Design human-AI interaction flows",
+      "Define model behaviors and constraints",
+      "Prototype AI-driven features",
+      "Evaluate ethical implications of AI"
+    ],
+    "skills": [
+      "Interaction Design",
+      "AI/ML Concepts",
+      "Ethical AI",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "ai-prompt-designer",
+    "title": "AI Prompt Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Creative Agency"
+    ],
+    "description": "Crafts and optimizes prompts to generate desired outputs from generative AI models.",
+    "responsibilities": [
+      "Develop and refine prompt libraries",
+      "Test model responses for consistency",
+      "Collaborate with content creators",
+      "Stay updated on model capabilities"
+    ],
+    "skills": [
+      "Prompt Engineering",
+      "LLMs",
+      "Creative Writing",
+      "Logic"
+    ]
+  },
+  {
+    "id": "ai-prototyping-designer",
+    "title": "AI Prototyping Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "R&D"
+    ],
+    "description": "Rapidly prototypes concepts using AI tools to validate ideas and workflows.",
+    "responsibilities": [
+      "Build functional prototypes with AI APIs",
+      "Experiment with new generative tools",
+      "Validate product concepts quickly",
+      "Demonstrate AI capabilities to stakeholders"
+    ],
+    "skills": [
+      "Coding",
+      "Prototyping",
+      "GenAI Tools",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "apparel-designer",
+    "title": "Apparel Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Fashion",
+      "Retail"
+    ],
+    "description": "Designs clothing and accessories considering style, material, and production.",
+    "responsibilities": [
+      "Sketch clothing concepts",
+      "Select fabrics and trims",
+      "Create technical packs for manufacturing",
+      "Monitor fashion trends"
+    ],
+    "skills": [
+      "Sketching",
+      "Textiles",
+      "Pattern Making",
+      "Adobe Illustrator"
+    ]
+  },
+  {
+    "id": "ar-designer",
+    "title": "AR Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Marketing",
+      "Gaming"
+    ],
+    "description": "Creates augmented reality experiences that overlay digital content onto the real world.",
+    "responsibilities": [
+      "Design AR interactions and flows",
+      "Create 3D assets for AR",
+      "Prototype spatial experiences",
+      "Work with AR development platforms"
+    ],
+    "skills": [
+      "Unity/Unreal",
+      "Spatial Design",
+      "3D Modeling",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "art-director",
+    "title": "Art Director",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Marketing",
+      "Entertainment"
+    ],
+    "description": "Responsible for the visual style and images in magazines, newspapers, product packaging, and movie and television productions.",
+    "responsibilities": [
+      "Determine how to best represent a concept visually",
+      "Determine which photographs, art, or other design elements to use",
+      "Develop the overall look or style of a publication, an advertising campaign, or a theater, television, or film set",
+      "Manage design staff"
+    ],
+    "skills": [
+      "Visual Design",
+      "Leadership",
+      "Communication",
+      "Creativity"
+    ]
+  },
+  {
+    "id": "behavioural-designer",
+    "title": "Behavioural Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Health",
+      "Finance"
+    ],
+    "description": "Applies psychology and behavioral economics to design products that influence user behavior.",
+    "responsibilities": [
+      "Analyze user behaviors and motivations",
+      "Design interventions to change behavior",
+      "Conduct A/B testing",
+      "Apply behavioral frameworks"
+    ],
+    "skills": [
+      "Psychology",
+      "Data Analysis",
+      "Experimentation",
+      "UX Design"
+    ]
+  },
+  {
+    "id": "brand-designer",
+    "title": "Brand Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Tech",
+      "Consumer Goods"
+    ],
+    "description": "Creates the visual identity and guidelines for brands to ensure consistency.",
+    "responsibilities": [
+      "Design logos and visual identities",
+      "Develop brand guidelines",
+      "Create marketing collateral",
+      "Ensure brand consistency across touchpoints"
+    ],
+    "skills": [
+      "Typography",
+      "Visual Identity",
+      "Adobe Creative Suite",
+      "Storytelling"
+    ]
+  },
+  {
+    "id": "business-designer",
+    "title": "Business Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Innovation",
+      "Tech"
+    ],
+    "description": "Applies design methodologies to business models and strategy.",
+    "responsibilities": [
+      "Design viable business models",
+      "Conduct market analysis",
+      "Bridge gap between design and business",
+      "Validate value propositions"
+    ],
+    "skills": [
+      "Business Strategy",
+      "Design Thinking",
+      "Financial Modeling",
+      "Market Research"
+    ]
+  },
+  {
+    "id": "character-designer",
+    "title": "Character Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Animation"
+    ],
+    "description": "Visualizes and designs characters for games, animation, and media.",
+    "responsibilities": [
+      "Create character sketches and turnarounds",
+      "Define character personality through visuals",
+      "Collaborate with writers and animators",
+      "Iterate based on art direction"
+    ],
+    "skills": [
+      "Illustration",
+      "Anatomy",
+      "Visual Storytelling",
+      "Concept Art"
+    ]
+  },
+  {
+    "id": "chief-design-officer-cdo",
+    "title": "Chief Design Officer (CDO)",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Executive responsible for overseeing all design and innovation aspects of an organization.",
+    "responsibilities": [
+      "Set company-wide design strategy",
+      "Champion design culture in the C-suite",
+      "Oversee multiple design departments",
+      "Align design with business goals"
+    ],
+    "skills": [
+      "Executive Leadership",
+      "Business Strategy",
+      "Vision Setting",
+      "Organizational Design"
+    ]
+  },
+  {
+    "id": "chief-digital-officer-cdo",
+    "title": "Chief Digital Officer (CDO)",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Enterprise",
+      "Government"
+    ],
+    "description": "Executive driving digital transformation and the adoption of digital technologies.",
+    "responsibilities": [
+      "Lead digital transformation initiatives",
+      "Identify new digital opportunities",
+      "Oversee digital product portfolio",
+      "Drive cultural change towards digital"
+    ],
+    "skills": [
+      "Digital Strategy",
+      "Change Management",
+      "Technology Trends",
+      "Leadership"
+    ]
+  },
+  {
+    "id": "chief-experience-officer-cxo",
+    "title": "Chief Experience Officer (CXO)",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Retail",
+      "Service"
+    ],
+    "description": "Executive responsible for the overall customer experience across all touchpoints.",
+    "responsibilities": [
+      "Own the end-to-end customer journey",
+      "Unify CX efforts across departments",
+      "Drive customer-centric strategy",
+      "Measure and improve CX metrics"
+    ],
+    "skills": [
+      "Customer Experience",
+      "Operations",
+      "Leadership",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "chief-innovation-officer-cio",
+    "title": "Chief Innovation Officer (CIO)",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise",
+      "Consulting"
+    ],
+    "description": "Executive in charge of managing the process of innovation and change management.",
+    "responsibilities": [
+      "Foster a culture of innovation",
+      "Manage innovation portfolios",
+      "Identify strategic partnerships",
+      "Lead R&D initiatives"
+    ],
+    "skills": [
+      "Innovation Management",
+      "Strategic Foresight",
+      "Leadership",
+      "R&D"
+    ]
+  },
+  {
+    "id": "chief-marketing-officer-cmo",
+    "title": "Chief Marketing Officer (CMO)",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "All"
+    ],
+    "description": "Executive responsible for marketing activities and brand management.",
+    "responsibilities": [
+      "Develop marketing strategy",
+      "Oversee brand positioning",
+      "Drive revenue through marketing",
+      "Lead marketing teams"
+    ],
+    "skills": [
+      "Marketing Strategy",
+      "Brand Management",
+      "Data Analysis",
+      "Leadership"
+    ]
+  },
+  {
+    "id": "circular-designer",
+    "title": "Circular Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Manufacturing",
+      "Sustainability"
+    ],
+    "description": "Designs products and systems with a focus on sustainability and the circular economy.",
+    "responsibilities": [
+      "Design for disassembly and reuse",
+      "Select sustainable materials",
+      "Analyze product lifecycle",
+      "Minimize waste in production"
+    ],
+    "skills": [
+      "Systems Thinking",
+      "Material Science",
+      "Life Cycle Analysis",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "cmf-designer",
+    "title": "CMF Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Automotive",
+      "Consumer Electronics"
+    ],
+    "description": "Specializes in Color, Material, and Finish design for physical products.",
+    "responsibilities": [
+      "Research color and material trends",
+      "Create material boards and samples",
+      "Define CMF specifications for manufacturing",
+      "Collaborate with industrial designers"
+    ],
+    "skills": [
+      "Trend Forecasting",
+      "Materials",
+      "Color Theory",
+      "Rendering"
+    ]
+  },
+  {
+    "id": "communications-designer",
+    "title": "Communications Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Corporate"
+    ],
+    "description": "Focuses on expressing messages effectively through visual and textual content.",
+    "responsibilities": [
+      "Design marketing materials and presentations",
+      "Visualize complex information",
+      "Ensure consistent messaging",
+      "Create assets for internal comms"
+    ],
+    "skills": [
+      "Graphic Design",
+      "Typography",
+      "Communication",
+      "Layout"
+    ]
+  },
+  {
+    "id": "concept-designer",
+    "title": "Concept Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Entertainment",
+      "Gaming",
+      "Product"
+    ],
+    "description": "Visualizes initial ideas for characters, environments, or products.",
+    "responsibilities": [
+      "Create rapid sketches and iterations",
+      "Establish visual direction",
+      "Collaborate with art directors",
+      "Produce polished concept art"
+    ],
+    "skills": [
+      "Drawing",
+      "Ideation",
+      "Photoshop",
+      "Visual Development"
+    ]
+  },
+  {
+    "id": "concept-development-manager",
+    "title": "Concept Development Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Retail",
+      "FMCG"
+    ],
+    "description": "Manages the early stages of product or service development.",
+    "responsibilities": [
+      "Lead ideation workshops",
+      "Manage concept validation",
+      "Coordinate with R&D and marketing",
+      "Oversee project timelines"
+    ],
+    "skills": [
+      "Project Management",
+      "Ideation",
+      "Strategy",
+      "Facilitation"
+    ]
+  },
+  {
+    "id": "content-designer",
+    "title": "Content Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Government"
+    ],
+    "description": "Designs content strategies and creates clear, user-focused content.",
+    "responsibilities": [
+      "Write clear and concise copy",
+      "Structure content for usability",
+      "Collaborate with UX designers",
+      "Define content guidelines"
+    ],
+    "skills": [
+      "Copywriting",
+      "Information Architecture",
+      "UX Writing",
+      "Content Strategy"
+    ]
+  },
+  {
+    "id": "content-manager",
+    "title": "Content Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Marketing",
+      "Media"
+    ],
+    "description": "Oversees the creating, editing, and publishing of content.",
+    "responsibilities": [
+      "Manage content calendar",
+      "Supervise content creators",
+      "Ensure SEO optimization",
+      "Analyze content performance"
+    ],
+    "skills": [
+      "Content Strategy",
+      "SEO",
+      "Editing",
+      "Management"
+    ]
+  },
+  {
+    "id": "context-designer",
+    "title": "Context Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "IoT",
+      "Tech"
+    ],
+    "description": "Designs for the situational context in which a product or service is used.",
+    "responsibilities": [
+      "Map user contexts and environments",
+      "Design adaptive experiences",
+      "Consider physical and social factors",
+      "Research usage scenarios"
+    ],
+    "skills": [
+      "Contextual Inquiry",
+      "Systems Thinking",
+      "UX Research",
+      "IOT"
+    ]
+  },
+  {
+    "id": "conversation-designer",
+    "title": "Conversation Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "AI"
+    ],
+    "description": "Designs the flow and logic of conversations for chatbots and voice assistants.",
+    "responsibilities": [
+      "Write dialogue scripts",
+      "Design conversational flows",
+      "Define persona and tone",
+      "Train NLU models"
+    ],
+    "skills": [
+      "UX Writing",
+      "Linguistics",
+      "Logic Flow",
+      "Voice UI"
+    ]
+  },
+  {
+    "id": "creative-team-manager",
+    "title": "Creative Team Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Agency",
+      "In-house"
+    ],
+    "description": "Manages a team of creative professionals and oversees project delivery.",
+    "responsibilities": [
+      "Resource allocation and scheduling",
+      "Mentor creative staff",
+      "Oversee quality of output",
+      "Facilitate team collaboration"
+    ],
+    "skills": [
+      "People Management",
+      "Project Management",
+      "Creative Direction",
+      "Operations"
+    ]
+  },
+  {
+    "id": "creative-technologist",
+    "title": "Creative Technologist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Tech"
+    ],
+    "description": "Combines creative design skills with technical coding ability to prototype ideas.",
+    "responsibilities": [
+      "Build creative prototypes",
+      "Explore new technologies",
+      "Bridge design and engineering",
+      "Develop interactive installations"
+    ],
+    "skills": [
+      "Creative Coding",
+      "Prototyping",
+      "Design",
+      "JavaScript/Python"
+    ]
+  },
+  {
+    "id": "cx-architect",
+    "title": "CX Architect",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise",
+      "Tech"
+    ],
+    "description": "Structures the overall customer experience ecosystem and touchpoints.",
+    "responsibilities": [
+      "Map comprehensive customer journeys",
+      "Define CX architecture and standards",
+      "Identify systemic pain points",
+      "Align CX with IT infrastructure"
+    ],
+    "skills": [
+      "Systems Architecture",
+      "Journey Mapping",
+      "Service Design",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "cx-designer",
+    "title": "CX Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Retail",
+      "Service",
+      "Tech"
+    ],
+    "description": "Designs holistic customer experiences across multiple channels.",
+    "responsibilities": [
+      "Design cross-channel experiences",
+      "Conduct customer research",
+      "Create service blueprints",
+      "Improve customer satisfaction"
+    ],
+    "skills": [
+      "Service Design",
+      "Customer Research",
+      "Journey Mapping",
+      "Empathy"
+    ]
+  },
+  {
+    "id": "cx-lead",
+    "title": "CX Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Service"
+    ],
+    "description": "Leads CX initiatives and guides teams to deliver superior customer experiences.",
+    "responsibilities": [
+      "Lead CX strategy for projects",
+      "Mentor CX designers",
+      "Manage stakeholder relationships",
+      "Drive CX metrics improvement"
+    ],
+    "skills": [
+      "Leadership",
+      "CX Strategy",
+      "Facilitation",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "cx-specialist",
+    "title": "CX Specialist",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Customer Support",
+      "Tech"
+    ],
+    "description": "Focuses on specific aspects of the customer experience analysis and improvement.",
+    "responsibilities": [
+      "Analyze customer feedback (NPS/CSAT)",
+      "Identify friction points",
+      "Collaborate with support teams",
+      "Implement quick CX wins"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Customer Service",
+      "Problem Solving",
+      "CRM"
+    ]
+  },
+  {
+    "id": "data-visualization-designer",
+    "title": "Data Visualization Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Media",
+      "Finance",
+      "Tech"
+    ],
+    "description": "Translates complex data sets into clear and engaging visual representations.",
+    "responsibilities": [
+      "Design charts and dashboards",
+      "Simplify complex data stories",
+      "Select appropriate viz types",
+      "Ensure data accuracy"
+    ],
+    "skills": [
+      "D3.js/Tableau",
+      "Information Design",
+      "Statistics",
+      "Visual Storytelling"
+    ]
+  },
+  {
+    "id": "design-coach",
+    "title": "Design Coach",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Education"
+    ],
+    "description": "Mentors and trains individuals or teams in design thinking and practices.",
+    "responsibilities": [
+      "Conduct training workshops",
+      "Mentor designers one-on-one",
+      "Help teams improve processes",
+      "Facilitate design sprints"
+    ],
+    "skills": [
+      "Coaching",
+      "Design Thinking",
+      "Facilitation",
+      "Empathy"
+    ]
+  },
+  {
+    "id": "design-director",
+    "title": "Design Director",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Agency",
+      "Tech"
+    ],
+    "description": "Senior leader responsible for the quality and direction of design output.",
+    "responsibilities": [
+      "Set creative vision",
+      "Manage design managers/leads",
+      "Build design culture",
+      "Business development support"
+    ],
+    "skills": [
+      "Leadership",
+      "Creative Direction",
+      "Strategy",
+      "Management"
+    ]
+  },
+  {
+    "id": "design-educator",
+    "title": "Design Educator",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Education",
+      "Tech"
+    ],
+    "description": "Teaches design principles and skills in academic or corporate settings.",
+    "responsibilities": [
+      "Develop curriculum",
+      "Teach classes/workshops",
+      "Grade and critique work",
+      "Stay current with industry trends"
+    ],
+    "skills": [
+      "Teaching",
+      "Curriculum Design",
+      "Public Speaking",
+      "Design Theory"
+    ]
+  },
+  {
+    "id": "design-engineer",
+    "title": "Design Engineer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "SaaS"
+    ],
+    "description": "Operates at the intersection of design and frontend engineering.",
+    "responsibilities": [
+      "Build reusable UI components",
+      "Prototype with code",
+      "Maintain design systems",
+      "Bridge gap between design and dev"
+    ],
+    "skills": [
+      "React/Vue",
+      "CSS/Tailwind",
+      "UI Design",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "design-lead",
+    "title": "Design Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Leads the design execution for a specific product or project.",
+    "responsibilities": [
+      "Oversee design quality",
+      "Guide junior designers",
+      "Collaborate with PMs and Devs",
+      "Hands-on design work"
+    ],
+    "skills": [
+      "Leadership",
+      "Product Design",
+      "Communication",
+      "Critique"
+    ]
+  },
+  {
+    "id": "design-leader",
+    "title": "Design Leader",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "A general leadership role focused on guiding design strategy and culture.",
+    "responsibilities": [
+      "Advocate for design value",
+      "Mentor designers",
+      "Align design with business",
+      "Drive process improvements"
+    ],
+    "skills": [
+      "Leadership",
+      "Strategy",
+      "Culture Building",
+      "Communication"
+    ]
+  },
+  {
+    "id": "design-manager",
+    "title": "Design Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "In-house"
+    ],
+    "description": "Manages a team of designers, focusing on people and operations.",
+    "responsibilities": [
+      "Hiring and onboarding",
+      "Performance reviews",
+      "Career development",
+      "Team operations"
+    ],
+    "skills": [
+      "People Management",
+      "Recruiting",
+      "Coaching",
+      "Operations"
+    ]
+  },
+  {
+    "id": "design-operations-lead",
+    "title": "Design Operations Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Leads the operational aspects of a design organization to improve efficiency.",
+    "responsibilities": [
+      "Optimize design workflows",
+      "Manage tools and licenses",
+      "Coordinate onboarding",
+      "Track team health metrics"
+    ],
+    "skills": [
+      "Operations",
+      "Process Improvement",
+      "Project Management",
+      "Communication"
+    ]
+  },
+  {
+    "id": "design-researcher",
+    "title": "Design Researcher",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Consulting"
+    ],
+    "description": "Conducts research to inform design decisions and understand user needs.",
+    "responsibilities": [
+      "Plan research studies",
+      "Conduct interviews and testing",
+      "Analyze qualitative data",
+      "Present insights to teams"
+    ],
+    "skills": [
+      "User Interviews",
+      "Usability Testing",
+      "Analysis",
+      "Presentation"
+    ]
+  },
+  {
+    "id": "design-strategist",
+    "title": "Design Strategist",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Innovation"
+    ],
+    "description": "Uses design thinking to solve complex business and organizational problems.",
+    "responsibilities": [
+      "Analyze market trends",
+      "Facilitate strategy workshops",
+      "Define value propositions",
+      "Create strategic roadmaps"
+    ],
+    "skills": [
+      "Strategy",
+      "Design Thinking",
+      "Business Analysis",
+      "Facilitation"
+    ]
+  },
+  {
+    "id": "design-system-designer",
+    "title": "Design System Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "SaaS"
+    ],
+    "description": "Creates and maintains the design system used across products.",
+    "responsibilities": [
+      "Design UI components",
+      "Write usage documentation",
+      "Ensure accessibility compliance",
+      "Manage system updates"
+    ],
+    "skills": [
+      "Figma",
+      "System Thinking",
+      "Documentation",
+      "Accessibility"
+    ]
+  },
+  {
+    "id": "design-technologist",
+    "title": "Design Technologist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Uses code to explore and validate design concepts.",
+    "responsibilities": [
+      "Build functional prototypes",
+      "Evaluate technical feasibility",
+      "Support design system engineering",
+      "Experiment with new tech"
+    ],
+    "skills": [
+      "Frontend Dev",
+      "Prototyping",
+      "UX",
+      "Creative Coding"
+    ]
+  },
+  {
+    "id": "designer",
+    "title": "Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "General"
+    ],
+    "description": "A broad role involving the creation of visual or functional designs.",
+    "responsibilities": [
+      "Create visual assets",
+      "Solve design problems",
+      "Collaborate with team",
+      "Meet project deadlines"
+    ],
+    "skills": [
+      "Visual Design",
+      "Creativity",
+      "Tools Proficiency",
+      "Communication"
+    ]
+  },
+  {
+    "id": "designops-lead",
+    "title": "DesignOps Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Leads the implementation and management of DesignOps practices.",
+    "responsibilities": [
+      "Define DesignOps strategy",
+      "Scale design processes",
+      "Manage design budget",
+      "Improve cross-functional collab"
+    ],
+    "skills": [
+      "Operations",
+      "Strategy",
+      "Leadership",
+      "Process Mapping"
+    ]
+  },
+  {
+    "id": "designops-manager",
+    "title": "DesignOps Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Manages the DesignOps function and team.",
+    "responsibilities": [
+      "Manage DesignOps team",
+      "Oversee resource allocation",
+      "Drive operational excellence",
+      "Report on design impact"
+    ],
+    "skills": [
+      "Management",
+      "Operations",
+      "Resource Planning",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "designops-specialist",
+    "title": "DesignOps Specialist",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Supports the operational needs of the design team.",
+    "responsibilities": [
+      "Maintain design tools",
+      "Organize team events",
+      "Assist with onboarding",
+      "Document processes"
+    ],
+    "skills": [
+      "Organization",
+      "Communication",
+      "Tools Admin",
+      "Process"
+    ]
+  },
+  {
+    "id": "digital-designer",
+    "title": "Digital Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Tech",
+      "Marketing"
+    ],
+    "description": "Designs graphics and layouts for digital screens and media.",
+    "responsibilities": [
+      "Design web banners and ads",
+      "Create social media assets",
+      "Design landing pages",
+      "Ensure brand consistency digital"
+    ],
+    "skills": [
+      "Graphic Design",
+      "Social Media",
+      "Adobe CC",
+      "Web Design"
+    ]
+  },
+  {
+    "id": "digital-design-director",
+    "title": "Digital Design Director",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Tech"
+    ],
+    "description": "Leads the digital design vision and team output.",
+    "responsibilities": [
+      "Direct digital campaigns",
+      "Lead digital design team",
+      "Oversee digital strategy",
+      "Client management"
+    ],
+    "skills": [
+      "Creative Direction",
+      "Digital Strategy",
+      "Leadership",
+      "Presentation"
+    ]
+  },
+  {
+    "id": "digital-strategist",
+    "title": "Digital Strategist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Marketing",
+      "Consulting"
+    ],
+    "description": "Formulates strategies for digital marketing and product presence.",
+    "responsibilities": [
+      "Audit digital presence",
+      "Develop channel strategies",
+      "Analyze campaign data",
+      "Recommend digital tech"
+    ],
+    "skills": [
+      "Digital Marketing",
+      "SEO/SEM",
+      "Analytics",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "director-of-design",
+    "title": "Director of Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Executive role leading the design department and strategy.",
+    "responsibilities": [
+      "Define design vision",
+      "Scale design organization",
+      "Partner with executive team",
+      "Budget ownership"
+    ],
+    "skills": [
+      "Leadership",
+      "Org Design",
+      "Strategy",
+      "Business Acumen"
+    ]
+  },
+  {
+    "id": "director-of-innovation",
+    "title": "Director of innovation",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise",
+      "Consulting"
+    ],
+    "description": "Leads innovation programs and new venture creation.",
+    "responsibilities": [
+      "Drive innovation strategy",
+      "Manage innovation pipeline",
+      "Foster intrapreneurship",
+      "Strategic partnerships"
+    ],
+    "skills": [
+      "Innovation Management",
+      "Strategy",
+      "Leadership",
+      "Risk Management"
+    ]
+  },
+  {
+    "id": "director-of-product-design",
+    "title": "Director of Product Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "SaaS"
+    ],
+    "description": "Leads the product design discipline and aligns it with product strategy.",
+    "responsibilities": [
+      "Align design with product roadmap",
+      "Manage design managers",
+      "Ensure product quality",
+      "Drive user-centricity"
+    ],
+    "skills": [
+      "Product Strategy",
+      "Leadership",
+      "UX",
+      "Management"
+    ]
+  },
+  {
+    "id": "director-of-research",
+    "title": "Director of Research",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Consulting"
+    ],
+    "description": "Heads the research function and sets research standards.",
+    "responsibilities": [
+      "Set research strategy",
+      "Build research ops",
+      "Manage research team",
+      "Influence product strategy"
+    ],
+    "skills": [
+      "Research Methods",
+      "Leadership",
+      "Strategy",
+      "Insights"
+    ]
+  },
+  {
+    "id": "director-of-service-design",
+    "title": "Director of Service Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Service",
+      "Finance",
+      "Gov"
+    ],
+    "description": "Leads service design efforts to improve end-to-end service delivery.",
+    "responsibilities": [
+      "Define service strategy",
+      "Lead organizational change",
+      "Manage service designers",
+      "Champion holistic view"
+    ],
+    "skills": [
+      "Service Design",
+      "Systems Thinking",
+      "Leadership",
+      "Change Management"
+    ]
+  },
+  {
+    "id": "director-of-ux",
+    "title": "Director of UX",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Oversees the user experience strategy and team.",
+    "responsibilities": [
+      "Set UX vision",
+      "Ensure usability standards",
+      "Manage UX budget/team",
+      "Cross-functional alignment"
+    ],
+    "skills": [
+      "UX Strategy",
+      "Leadership",
+      "User Research",
+      "Management"
+    ]
+  },
+  {
+    "id": "email-designer",
+    "title": "Email Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Marketing",
+      "E-commerce"
+    ],
+    "description": "Designs engaging and responsive email marketing campaigns.",
+    "responsibilities": [
+      "Design email templates",
+      "Code HTML emails",
+      "Test for client compatibility",
+      "Optimize for conversion"
+    ],
+    "skills": [
+      "HTML/CSS",
+      "Graphic Design",
+      "Email Marketing",
+      "Litmus"
+    ]
+  },
+  {
+    "id": "environment-artist",
+    "title": "Environment Artist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Film"
+    ],
+    "description": "Creates 3D environments and backgrounds for games or movies.",
+    "responsibilities": [
+      "Model terrain and structures",
+      "Texture environments",
+      "Set up lighting",
+      "Optimize level performance"
+    ],
+    "skills": [
+      "3D Modeling",
+      "Level Design",
+      "Texturing",
+      "Unreal/Unity"
+    ]
+  },
+  {
+    "id": "ergonomics-designer",
+    "title": "Ergonomics Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Industrial",
+      "Automotive"
+    ],
+    "description": "Designs products and spaces to fit human physical capabilities.",
+    "responsibilities": [
+      "Analyze human factors",
+      "Test physical prototypes",
+      "Ensure safety and comfort",
+      "Apply anthropometric data"
+    ],
+    "skills": [
+      "Human Factors",
+      "Industrial Design",
+      "Safety Standards",
+      "Testing"
+    ]
+  },
+  {
+    "id": "ethical-designer",
+    "title": "Ethical Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Social Impact"
+    ],
+    "description": "Focuses on the ethical implications and societal impact of design.",
+    "responsibilities": [
+      "Assess ethical risks",
+      "Advocate for user privacy",
+      "Design for inclusivity",
+      "Prevent dark patterns"
+    ],
+    "skills": [
+      "Ethics",
+      "Critical Thinking",
+      "Policy",
+      "Advocacy"
+    ]
+  },
+  {
+    "id": "exhibition-designer",
+    "title": "Exhibition Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Museums",
+      "Events"
+    ],
+    "description": "Designs layouts and displays for exhibitions and events.",
+    "responsibilities": [
+      "Create floor plans",
+      "Design display structures",
+      "Manage lighting/graphics",
+      "Oversee installation"
+    ],
+    "skills": [
+      "Spatial Design",
+      "3D Modeling",
+      "Graphic Design",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "experience-designer",
+    "title": "Experience Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Designs end-to-end experiences focusing on user satisfaction.",
+    "responsibilities": [
+      "Map user journeys",
+      "Prototype interactions",
+      "Conduct user testing",
+      "Refine touchpoints"
+    ],
+    "skills": [
+      "UX Design",
+      "Prototyping",
+      "Research",
+      "Storytelling"
+    ]
+  },
+  {
+    "id": "experience-lead",
+    "title": "Experience Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Leads experience design projects and teams.",
+    "responsibilities": [
+      "Define experience strategy",
+      "Guide design team",
+      "Manage client expectations",
+      "Ensure delivery quality"
+    ],
+    "skills": [
+      "Leadership",
+      "UX Strategy",
+      "Presentation",
+      "Planning"
+    ]
+  },
+  {
+    "id": "exterior-designer",
+    "title": "Exterior Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Automotive",
+      "Architecture"
+    ],
+    "description": "Designs the outer appearance of cars, buildings, or products.",
+    "responsibilities": [
+      "Sketch exterior concepts",
+      "Create 3D surfaces (CAS)",
+      "Refine aesthetics and aero",
+      "Collaborate with engineers"
+    ],
+    "skills": [
+      "Sketching",
+      "Alias/Rhino",
+      "Surfacing",
+      "Aesthetics"
+    ]
+  },
+  {
+    "id": "fashion-designer",
+    "title": "Fashion Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Fashion"
+    ],
+    "description": "Creates designs for clothing, footwear, and accessories.",
+    "responsibilities": [
+      "Research fashion trends",
+      "Sketch designs",
+      "Oversee garment production",
+      "Select fabrics"
+    ],
+    "skills": [
+      "Fashion Design",
+      "Illustration",
+      "Sewing",
+      "Trend Analysis"
+    ]
+  },
+  {
+    "id": "framsynsdesigner-foresight-designer",
+    "title": "Framsynsdesigner (Foresight Designer)",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Public Sector"
+    ],
+    "description": "Uses design to explore and visualize future scenarios.",
+    "responsibilities": [
+      "Scan for future signals",
+      "Create future scenarios",
+      "Facilitate foresight workshops",
+      "Design speculative artifacts"
+    ],
+    "skills": [
+      "Strategic Foresight",
+      "Speculative Design",
+      "Research",
+      "Facilitation"
+    ]
+  },
+  {
+    "id": "game-designer",
+    "title": "Game Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming"
+    ],
+    "description": "Designs gameplay mechanics, systems, and rules.",
+    "responsibilities": [
+      "Design game mechanics",
+      "Balance difficulty",
+      "Write design documents",
+      "Prototype gameplay"
+    ],
+    "skills": [
+      "Game Mechanics",
+      "Scripting",
+      "Level Design",
+      "Documentation"
+    ]
+  },
+  {
+    "id": "generative-designer",
+    "title": "Generative Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Architecture",
+      "Tech"
+    ],
+    "description": "Uses algorithms and code to generate design variations.",
+    "responsibilities": [
+      "Write generative algorithms",
+      "Set design parameters",
+      "Curate outputs",
+      "Optimize for fabrication"
+    ],
+    "skills": [
+      "Computational Design",
+      "Python/Processing",
+      "Grasshopper",
+      "Math"
+    ]
+  },
+  {
+    "id": "graphic-designer",
+    "title": "Graphic Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "General"
+    ],
+    "description": "Creates visual concepts to communicate ideas that inspire, inform, or captivate consumers.",
+    "responsibilities": [
+      "Develop graphics for product illustrations, logos, and websites",
+      "Select colors, images, text style, and layout",
+      "Review designs for errors before printing or publishing",
+      "Collaborate with copywriters and creative directors"
+    ],
+    "skills": [
+      "Adobe Creative Suite",
+      "Typography",
+      "Layout",
+      "Creativity"
+    ]
+  },
+  {
+    "id": "growth-product-designer",
+    "title": "Growth Product Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "SaaS"
+    ],
+    "description": "Focuses on design optimizations that drive user acquisition and retention.",
+    "responsibilities": [
+      "Design onboarding flows",
+      "Run A/B tests",
+      "Optimize conversion funnels",
+      "Analyze user metrics"
+    ],
+    "skills": [
+      "UX Design",
+      "Data Analysis",
+      "Growth Hacking",
+      "Experimentation"
+    ]
+  },
+  {
+    "id": "head-of-customer-experience",
+    "title": "Head of Customer Experience",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Service",
+      "Tech"
+    ],
+    "description": "Leads the CX department and strategy.",
+    "responsibilities": [
+      "Define CX goals",
+      "Lead CX team",
+      "Monitor customer sentiment",
+      "Drive cross-functional CX"
+    ],
+    "skills": [
+      "Leadership",
+      "CX Strategy",
+      "Analytics",
+      "Operations"
+    ]
+  },
+  {
+    "id": "head-of-design",
+    "title": "Head of Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Top design leader within a business unit or smaller company.",
+    "responsibilities": [
+      "Lead design team",
+      "Set design standards",
+      "Manage design budget",
+      "Collaborate with leadership"
+    ],
+    "skills": [
+      "Leadership",
+      "Design Operations",
+      "Strategy",
+      "Mentorship"
+    ]
+  },
+  {
+    "id": "head-of-innovation",
+    "title": "Head of Innovation",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise",
+      "Consulting"
+    ],
+    "description": "Leads innovation strategy and execution.",
+    "responsibilities": [
+      "Manage innovation portfolio",
+      "Lead R&D teams",
+      "Drive culture of innovation",
+      "Secure funding"
+    ],
+    "skills": [
+      "Innovation Management",
+      "Strategy",
+      "Leadership",
+      "Business Development"
+    ]
+  },
+  {
+    "id": "head-of-product-design",
+    "title": "Head of Product Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads the product design function.",
+    "responsibilities": [
+      "Align design with product vision",
+      "Scale product design team",
+      "Ensure design consistency",
+      "Advocate for user needs"
+    ],
+    "skills": [
+      "Product Leadership",
+      "Design Strategy",
+      "Management",
+      "UX"
+    ]
+  },
+  {
+    "id": "head-of-research",
+    "title": "Head of Research",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads the user research team and strategy.",
+    "responsibilities": [
+      "Define research agenda",
+      "Manage research team",
+      "Integrate insights into product",
+      "Ensure research quality"
+    ],
+    "skills": [
+      "Research Leadership",
+      "Strategy",
+      "Operations",
+      "Analysis"
+    ]
+  },
+  {
+    "id": "head-of-service-design",
+    "title": "Head of Service Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Service",
+      "Gov"
+    ],
+    "description": "Leads the service design practice.",
+    "responsibilities": [
+      "Establish service design standards",
+      "Lead service transformation",
+      "Manage service designers",
+      "Stakeholder management"
+    ],
+    "skills": [
+      "Service Design",
+      "Leadership",
+      "Systems Thinking",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "head-of-ux",
+    "title": "Head of UX",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads the User Experience department.",
+    "responsibilities": [
+      "Set UX strategy",
+      "Grow UX team",
+      "Oversee UX operations",
+      "Champion user-centered design"
+    ],
+    "skills": [
+      "UX Leadership",
+      "Strategy",
+      "Management",
+      "Recruiting"
+    ]
+  },
+  {
+    "id": "human-factors-designer",
+    "title": "Human Factors Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Medical",
+      "Industrial"
+    ],
+    "description": "Applies human factors engineering to design safe and effective systems.",
+    "responsibilities": [
+      "Conduct usability studies",
+      "Analyze cognitive load",
+      "Ensure regulatory compliance",
+      "Design control interfaces"
+    ],
+    "skills": [
+      "Human Factors",
+      "Ergonomics",
+      "Psychology",
+      "Safety"
+    ]
+  },
+  {
+    "id": "illustrator",
+    "title": "Illustrator",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Publishing",
+      "Media",
+      "Agency"
+    ],
+    "description": "Creates original artwork for various media.",
+    "responsibilities": [
+      "Create custom illustrations",
+      "Develop visual style",
+      "Collaborate with art directors",
+      "Prepare files for print/web"
+    ],
+    "skills": [
+      "Drawing",
+      "Painting",
+      "Adobe Illustrator",
+      "Creativity"
+    ]
+  },
+  {
+    "id": "industrial-designer",
+    "title": "Industrial Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Manufacturing",
+      "Tech"
+    ],
+    "description": "Designs physical products considering aesthetics, function, and manufacturing.",
+    "responsibilities": [
+      "Sketch product concepts",
+      "Build physical prototypes",
+      "Create 3D CAD models",
+      "Collaborate with engineers"
+    ],
+    "skills": [
+      "CAD (SolidWorks/Rhino)",
+      "Sketching",
+      "Prototyping",
+      "Materials"
+    ]
+  },
+  {
+    "id": "information-architect-ia",
+    "title": "Information Architect (IA)",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Library"
+    ],
+    "description": "Organizes and structures information to make it findable and understandable.",
+    "responsibilities": [
+      "Create site maps and taxonomies",
+      "Design navigation systems",
+      "Define content structure",
+      "Conduct card sorting"
+    ],
+    "skills": [
+      "Information Architecture",
+      "Taxonomy",
+      "UX Design",
+      "Organization"
+    ]
+  },
+  {
+    "id": "informations-arkitekt",
+    "title": "Informations Arkitekt",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Gov"
+    ],
+    "description": "Organizes and structures information (Swedish title).",
+    "responsibilities": [
+      "Create site maps",
+      "Define data structures",
+      "Optimize navigation",
+      "Ensure findability"
+    ],
+    "skills": [
+      "IA",
+      "UX",
+      "Structure",
+      "Analysis"
+    ]
+  },
+  {
+    "id": "innovation-designer",
+    "title": "Innovation Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Enterprise"
+    ],
+    "description": "Designs new business concepts and value propositions.",
+    "responsibilities": [
+      "Facilitate innovation workshops",
+      "Prototype new ventures",
+      "Research trends",
+      "Design business models"
+    ],
+    "skills": [
+      "Design Thinking",
+      "Business Design",
+      "Prototyping",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "innovation-lead",
+    "title": "Innovation Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise",
+      "Tech"
+    ],
+    "description": "Leads innovation projects and initiatives.",
+    "responsibilities": [
+      "Lead innovation sprints",
+      "Manage innovation pipeline",
+      "Mentor teams",
+      "Drive project execution"
+    ],
+    "skills": [
+      "Leadership",
+      "Innovation Processes",
+      "Project Management",
+      "Facilitation"
+    ]
+  },
+  {
+    "id": "innovation-manager",
+    "title": "Innovation Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise"
+    ],
+    "description": "Manages the innovation process and resources.",
+    "responsibilities": [
+      "Oversee innovation portfolio",
+      "Allocate resources",
+      "Measure innovation metrics",
+      "Foster internal networks"
+    ],
+    "skills": [
+      "Management",
+      "Strategy",
+      "Operations",
+      "Networking"
+    ]
+  },
+  {
+    "id": "innovation-strategist",
+    "title": "Innovation Strategist",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting"
+    ],
+    "description": "Develops strategies for long-term innovation and growth.",
+    "responsibilities": [
+      "Identify growth opportunities",
+      "Analyze competitive landscape",
+      "Develop innovation roadmaps",
+      "Advise leadership"
+    ],
+    "skills": [
+      "Strategy",
+      "Foresight",
+      "Analysis",
+      "Presentation"
+    ]
+  },
+  {
+    "id": "insights-lead",
+    "title": "Insights Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Marketing",
+      "Tech"
+    ],
+    "description": "Leads the generation of consumer and market insights.",
+    "responsibilities": [
+      "Lead research projects",
+      "Synthesize data into insights",
+      "Guide strategic decisions",
+      "Manage insights team"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Market Research",
+      "Storytelling",
+      "Leadership"
+    ]
+  },
+  {
+    "id": "instructional-designer",
+    "title": "Instructional Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Education",
+      "Corporate Training"
+    ],
+    "description": "Designs learning experiences and materials.",
+    "responsibilities": [
+      "Design curriculum",
+      "Create e-learning modules",
+      "Assess learning needs",
+      "Evaluate training effectiveness"
+    ],
+    "skills": [
+      "Learning Theory",
+      "Articulate/Captivate",
+      "Curriculum Design",
+      "Writing"
+    ]
+  },
+  {
+    "id": "interaction-designer",
+    "title": "Interaction Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Designs how users interact with digital products.",
+    "responsibilities": [
+      "Define interaction patterns",
+      "Create animated prototypes",
+      "Design UI states",
+      "Ensure usability"
+    ],
+    "skills": [
+      "Interaction Design",
+      "Prototyping",
+      "Animation",
+      "Figma"
+    ]
+  },
+  {
+    "id": "interior-designer",
+    "title": "Interior Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Architecture",
+      "Real Estate"
+    ],
+    "description": "Designs functional and aesthetic indoor spaces.",
+    "responsibilities": [
+      "Space planning",
+      "Select furniture and finishes",
+      "Create 3D visualizations",
+      "Manage fit-out"
+    ],
+    "skills": [
+      "AutoCAD/Revit",
+      "Space Planning",
+      "Materials",
+      "Rendering"
+    ]
+  },
+  {
+    "id": "lead-designer",
+    "title": "Lead Designer",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Senior designer leading a project or small team.",
+    "responsibilities": [
+      "Lead design execution",
+      "Mentor junior designers",
+      "Client communication",
+      "Quality control"
+    ],
+    "skills": [
+      "Leadership",
+      "Design Mastery",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "lead-ux-designer",
+    "title": "Lead UX Designer",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads the UX design for a product or area.",
+    "responsibilities": [
+      "Define UX strategy",
+      "Lead user research",
+      "Guide prototyping",
+      "Collaborate with product"
+    ],
+    "skills": [
+      "UX Leadership",
+      "Strategy",
+      "Research",
+      "Figma"
+    ]
+  },
+  {
+    "id": "learning-designer",
+    "title": "Learning Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "EdTech",
+      "Education"
+    ],
+    "description": "Designs educational programs and learning environments.",
+    "responsibilities": [
+      "Structure learning journeys",
+      "Design learning activities",
+      "Integrate ed-tech tools",
+      "Measure learning outcomes"
+    ],
+    "skills": [
+      "Pedagogy",
+      "UX Design",
+      "Curriculum Dev",
+      "Assessment"
+    ]
+  },
+  {
+    "id": "level-designer",
+    "title": "Level Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming"
+    ],
+    "description": "Designs the levels and environments in video games.",
+    "responsibilities": [
+      "Map layout of levels",
+      "Script level events",
+      "Place enemies and items",
+      "Balance pacing"
+    ],
+    "skills": [
+      "Level Editors",
+      "Game Design",
+      "Scripting",
+      "Spatial Design"
+    ]
+  },
+  {
+    "id": "lighting-designer",
+    "title": "Lighting Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Architecture",
+      "Theater"
+    ],
+    "description": "Designs lighting systems for spaces or performances.",
+    "responsibilities": [
+      "Create lighting plans",
+      "Select fixtures",
+      "Calculate lux levels",
+      "Program lighting controls"
+    ],
+    "skills": [
+      "Lighting Theory",
+      "CAD",
+      "Electrical basics",
+      "Creativity"
+    ]
+  },
+  {
+    "id": "marketing-designer",
+    "title": "Marketing Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Marketing",
+      "Tech"
+    ],
+    "description": "Creates visual assets for marketing campaigns.",
+    "responsibilities": [
+      "Design ads and landing pages",
+      "Create sales decks",
+      "Maintain brand consistency",
+      "Support marketing team"
+    ],
+    "skills": [
+      "Graphic Design",
+      "Marketing",
+      "Adobe CC",
+      "Presentation Design"
+    ]
+  },
+  {
+    "id": "motion-designer",
+    "title": "Motion Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Advertising",
+      "Tech",
+      "Film"
+    ],
+    "description": "Creates animated graphics and visual effects.",
+    "responsibilities": [
+      "Animate UI elements",
+      "Create explainer videos",
+      "Design title sequences",
+      "Composite footage"
+    ],
+    "skills": [
+      "After Effects",
+      "Animation",
+      "Cinema 4D",
+      "Storyboarding"
+    ]
+  },
+  {
+    "id": "motion-graphics-designer",
+    "title": "Motion Graphics Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Broadcast",
+      "Advertising"
+    ],
+    "description": "Specializes in animated graphic design.",
+    "responsibilities": [
+      "Create motion graphics",
+      "Animate typography",
+      "Edit video content",
+      "Collaborate with editors"
+    ],
+    "skills": [
+      "After Effects",
+      "Graphic Design",
+      "Animation",
+      "Typography"
+    ]
+  },
+  {
+    "id": "narrative-designer",
+    "title": "Narrative Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming"
+    ],
+    "description": "Designs the story and narrative structure of a game.",
+    "responsibilities": [
+      "Write scripts and dialogue",
+      "Design narrative branching",
+      "Integrate story with gameplay",
+      "Create world lore"
+    ],
+    "skills": [
+      "Writing",
+      "Game Design",
+      "Narrative Structure",
+      "Collaboration"
+    ]
+  },
+  {
+    "id": "packaging-designer",
+    "title": "Packaging Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "FMCG",
+      "Retail"
+    ],
+    "description": "Designs the packaging for products.",
+    "responsibilities": [
+      "Create dielines",
+      "Design package graphics",
+      "Select materials",
+      "Ensure print readiness"
+    ],
+    "skills": [
+      "Print Design",
+      "3D Visualization",
+      "Materials",
+      "Illustrator"
+    ]
+  },
+  {
+    "id": "place-designer",
+    "title": "Place Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Urban Planning",
+      "Real Estate"
+    ],
+    "description": "Designs public spaces and placemaking strategies.",
+    "responsibilities": [
+      "Plan public spaces",
+      "Design wayfinding",
+      "Community engagement",
+      "Activate spaces"
+    ],
+    "skills": [
+      "Urban Design",
+      "Architecture",
+      "Community",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "presentation-designer",
+    "title": "Presentation Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Consulting",
+      "Corporate"
+    ],
+    "description": "Creates high-quality presentations for business.",
+    "responsibilities": [
+      "Design slide decks",
+      "Visualize data",
+      "Structure narratives",
+      "Create templates"
+    ],
+    "skills": [
+      "PowerPoint/Keynote",
+      "Storytelling",
+      "Graphic Design",
+      "Data Viz"
+    ]
+  },
+  {
+    "id": "principal-designer",
+    "title": "Principal Designer",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "High-level individual contributor leading complex design initiatives.",
+    "responsibilities": [
+      "Solve complex design problems",
+      "Set design standards",
+      "Mentor senior designers",
+      "Influence product strategy"
+    ],
+    "skills": [
+      "Design Mastery",
+      "Strategy",
+      "Leadership",
+      "Systems Thinking"
+    ]
+  },
+  {
+    "id": "product-designer",
+    "title": "Product Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Responsible for the user experience and interface of a product.",
+    "responsibilities": [
+      "Design UI and UX",
+      "Prototype solutions",
+      "Collaborate with engineers",
+      "Conduct user testing"
+    ],
+    "skills": [
+      "Figma",
+      "UX/UI",
+      "Product Thinking",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "prompt-engineer",
+    "title": "Prompt Engineer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "AI"
+    ],
+    "description": "Optimizes inputs for generative AI models.",
+    "responsibilities": [
+      "Design effective prompts",
+      "Test model outputs",
+      "Refine prompt strategies",
+      "Document prompt libraries"
+    ],
+    "skills": [
+      "NLP",
+      "Logic",
+      "Writing",
+      "AI Tools"
+    ]
+  },
+  {
+    "id": "retail-designer",
+    "title": "Retail Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Retail",
+      "Architecture"
+    ],
+    "description": "Designs retail store environments.",
+    "responsibilities": [
+      "Store layout design",
+      "Design fixtures and displays",
+      "Manage visual merchandising",
+      "Ensure brand experience"
+    ],
+    "skills": [
+      "Interior Design",
+      "Retail Strategy",
+      "CAD",
+      "Merchandising"
+    ]
+  },
+  {
+    "id": "service-design-lead",
+    "title": "Service Design Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Service",
+      "Gov"
+    ],
+    "description": "Leads service design projects and teams.",
+    "responsibilities": [
+      "Lead service strategy",
+      "Facilitate stakeholder workshops",
+      "Guide service designers",
+      "Ensure implementation"
+    ],
+    "skills": [
+      "Leadership",
+      "Service Design",
+      "Facilitation",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "service-designer",
+    "title": "Service Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Service",
+      "Tech",
+      "Gov"
+    ],
+    "description": "Designs end-to-end services and customer journeys.",
+    "responsibilities": [
+      "Create service blueprints",
+      "Conduct user research",
+      "Design touchpoints",
+      "Prototype services"
+    ],
+    "skills": [
+      "Service Blueprinting",
+      "Journey Mapping",
+      "Research",
+      "Facilitation"
+    ]
+  },
+  {
+    "id": "set-designer",
+    "title": "Set Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Theater",
+      "Film"
+    ],
+    "description": "Designs sets and scenery for performance and film.",
+    "responsibilities": [
+      "Analyze scripts",
+      "Create set models",
+      "Produce technical drawings",
+      "Oversee construction"
+    ],
+    "skills": [
+      "Drafting",
+      "Model Making",
+      "Creativity",
+      "Collaboration"
+    ]
+  },
+  {
+    "id": "sound-designer",
+    "title": "Sound Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Sound"
+    ],
+    "industry": [
+      "Gaming",
+      "Film",
+      "Tech"
+    ],
+    "description": "Creates audio elements for media and products.",
+    "responsibilities": [
+      "Create sound effects",
+      "Edit dialogue",
+      "Mix audio tracks",
+      "Design UI sounds"
+    ],
+    "skills": [
+      "DAW (ProTools/Logic)",
+      "Audio Editing",
+      "Creativity",
+      "Mixing"
+    ]
+  },
+  {
+    "id": "staff-designer",
+    "title": "Staff Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Senior individual contributor role with broad influence.",
+    "responsibilities": [
+      "Lead cross-team initiatives",
+      "Define design patterns",
+      "Mentor team members",
+      "Partner with leadership"
+    ],
+    "skills": [
+      "Leadership",
+      "Strategy",
+      "Communication",
+      "Design Ops"
+    ]
+  },
+  {
+    "id": "strategic-transformation-manager",
+    "title": "Strategic Transformation Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Enterprise"
+    ],
+    "description": "Manages large-scale organizational change initiatives.",
+    "responsibilities": [
+      "Plan transformation roadmap",
+      "Manage stakeholder buy-in",
+      "Track progress",
+      "Mitigate risks"
+    ],
+    "skills": [
+      "Change Management",
+      "Strategy",
+      "Program Management",
+      "Communication"
+    ]
+  },
+  {
+    "id": "surface-designer",
+    "title": "Surface Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Textiles",
+      "Interiors"
+    ],
+    "description": "Designs patterns and textures for surfaces.",
+    "responsibilities": [
+      "Create repeat patterns",
+      "Design surface textures",
+      "Prepare files for production",
+      "Follow trends"
+    ],
+    "skills": [
+      "Pattern Design",
+      "Illustrator",
+      "Textiles",
+      "Color Theory"
+    ]
+  },
+  {
+    "id": "sustainability-designer",
+    "title": "Sustainability Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting",
+      "Manufacturing"
+    ],
+    "description": "Incorporates sustainable practices into design processes.",
+    "responsibilities": [
+      "Assess environmental impact",
+      "Recommend sustainable materials",
+      "Design for circularity",
+      "Educate teams"
+    ],
+    "skills": [
+      "Sustainability",
+      "LCA",
+      "Material Science",
+      "Systems Thinking"
+    ]
+  },
+  {
+    "id": "system-designer",
+    "title": "System Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Tech"
+    ],
+    "description": "Designs complex systems and mechanics.",
+    "responsibilities": [
+      "Balance game economies",
+      "Design progression systems",
+      "Model system behaviors",
+      "Document rules"
+    ],
+    "skills": [
+      "Systems Thinking",
+      "Math",
+      "Logic",
+      "Game Design"
+    ]
+  },
+  {
+    "id": "textile-designer",
+    "title": "Textile Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Fashion",
+      "Interiors"
+    ],
+    "description": "Designs knitted, woven, or printed fabrics.",
+    "responsibilities": [
+      "Create fabric designs",
+      "Select yarns and weaves",
+      "Develop colorways",
+      "Work with mills"
+    ],
+    "skills": [
+      "Weaving/Knitting",
+      "Pattern Design",
+      "Materials",
+      "CAD"
+    ]
+  },
+  {
+    "id": "tillganglighets-lead",
+    "title": "Tillgänglighets Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Gov"
+    ],
+    "description": "Leads accessibility efforts (Swedish title).",
+    "responsibilities": [
+      "Lead accessibility strategy",
+      "Train teams",
+      "Ensure compliance",
+      "Advocate for users"
+    ],
+    "skills": [
+      "WCAG",
+      "Leadership",
+      "Accessibility",
+      "Training"
+    ]
+  },
+  {
+    "id": "tillganglighets-strateg",
+    "title": "Tillgänglighets Strateg",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Gov",
+      "Enterprise"
+    ],
+    "description": "Develops accessibility strategies (Swedish title).",
+    "responsibilities": [
+      "Develop policy",
+      "Strategic planning",
+      "Organizational change",
+      "Monitor legislation"
+    ],
+    "skills": [
+      "Strategy",
+      "Policy",
+      "Accessibility",
+      "Change Management"
+    ]
+  },
+  {
+    "id": "transformation-lead",
+    "title": "Transformation Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Consulting"
+    ],
+    "description": "Leads organizational transformation projects.",
+    "responsibilities": [
+      "Lead change initiatives",
+      "Facilitate workshops",
+      "Coach leaders",
+      "Measure impact"
+    ],
+    "skills": [
+      "Change Management",
+      "Leadership",
+      "Facilitation",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "transformation-leader",
+    "title": "Transformation Leader",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Enterprise"
+    ],
+    "description": "Champion for change and transformation.",
+    "responsibilities": [
+      "Drive change agenda",
+      "Mobilize teams",
+      "Communicate vision",
+      "Overcome resistance"
+    ],
+    "skills": [
+      "Leadership",
+      "Communication",
+      "Change Management",
+      "Influence"
+    ]
+  },
+  {
+    "id": "ui-designer",
+    "title": "UI Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Designs the visual interfaces of software and websites.",
+    "responsibilities": [
+      "Design UI layouts",
+      "Create icon sets",
+      "Define visual styles",
+      "Build prototypes"
+    ],
+    "skills": [
+      "Visual Design",
+      "Figma",
+      "Typography",
+      "Color Theory"
+    ]
+  },
+  {
+    "id": "ui-lead",
+    "title": "UI Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads the UI design team and visual direction.",
+    "responsibilities": [
+      "Set visual direction",
+      "Maintain design system",
+      "Mentor UI designers",
+      "Ensure visual quality"
+    ],
+    "skills": [
+      "Art Direction",
+      "Leadership",
+      "UI Design",
+      "Systems Thinking"
+    ]
+  },
+  {
+    "id": "urban-designer",
+    "title": "Urban Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Physical"
+    ],
+    "industry": [
+      "Urban Planning",
+      "Gov"
+    ],
+    "description": "Designs the layout and functionality of urban spaces.",
+    "responsibilities": [
+      "Design master plans",
+      "Analyze urban data",
+      "Create public spaces",
+      "Consider zoning"
+    ],
+    "skills": [
+      "Urban Planning",
+      "Architecture",
+      "GIS",
+      "CAD"
+    ]
+  },
+  {
+    "id": "usability-researcher",
+    "title": "Usability Researcher",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Tests products with users to identify usability issues.",
+    "responsibilities": [
+      "Conduct usability tests",
+      "Analyze user behavior",
+      "Report findings",
+      "Recommend improvements"
+    ],
+    "skills": [
+      "Usability Testing",
+      "Analysis",
+      "Reporting",
+      "Empathy"
+    ]
+  },
+  {
+    "id": "user-experience-designer",
+    "title": "User Experience Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Designs product experiences to be useful, usable, and desirable.",
+    "responsibilities": [
+      "Research user needs",
+      "Wireframe solutions",
+      "Prototype flows",
+      "Test with users"
+    ],
+    "skills": [
+      "UX Design",
+      "Research",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "user-research-manager",
+    "title": "User Research Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Manages a team of user researchers.",
+    "responsibilities": [
+      "Prioritize research requests",
+      "Mentor researchers",
+      "Manage budget",
+      "Advocate for insights"
+    ],
+    "skills": [
+      "Management",
+      "Research Ops",
+      "Strategy",
+      "Leadership"
+    ]
+  },
+  {
+    "id": "user-researcher",
+    "title": "User Researcher",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Investigates user behaviors, needs, and motivations.",
+    "responsibilities": [
+      "Conduct qualitative research",
+      "Survey design",
+      "Synthesize findings",
+      "Create personas"
+    ],
+    "skills": [
+      "Interviewing",
+      "Analysis",
+      "Personas",
+      "Synthesis"
+    ]
+  },
+  {
+    "id": "ux-architect",
+    "title": "UX Architect",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Structures the underlying organization and flow of a product.",
+    "responsibilities": [
+      "Define information architecture",
+      "Map complex flows",
+      "Create wireframes",
+      "Ensure logic consistency"
+    ],
+    "skills": [
+      "IA",
+      "Flow Mapping",
+      "Logic",
+      "UX"
+    ]
+  },
+  {
+    "id": "ux-design-manager",
+    "title": "UX Design Manager",
+    "orgLevel": "Manager",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Manages UX designers and design delivery.",
+    "responsibilities": [
+      "Team management",
+      "Project oversight",
+      "Hiring",
+      "Stakeholder management"
+    ],
+    "skills": [
+      "Management",
+      "UX",
+      "Communication",
+      "Planning"
+    ]
+  },
+  {
+    "id": "ux-designer",
+    "title": "UX Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Designs the user experience for digital products.",
+    "responsibilities": [
+      "Create wireframes",
+      "Build prototypes",
+      "Conduct research",
+      "Collaborate with devs"
+    ],
+    "skills": [
+      "Figma",
+      "Prototyping",
+      "User Research",
+      "Wireframing"
+    ]
+  },
+  {
+    "id": "ux-director",
+    "title": "UX Director",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads the UX strategy and organization.",
+    "responsibilities": [
+      "Set UX vision",
+      "Scale team",
+      "Partner with product/eng",
+      "Budget management"
+    ],
+    "skills": [
+      "Leadership",
+      "Strategy",
+      "Business",
+      "UX"
+    ]
+  },
+  {
+    "id": "ux-engineer",
+    "title": "UX Engineer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Builds the frontend of user interfaces with a focus on UX.",
+    "responsibilities": [
+      "Code UI components",
+      "Ensure performance",
+      "Implement animations",
+      "Bridge design/dev"
+    ],
+    "skills": [
+      "React/JS",
+      "CSS",
+      "Accessibility",
+      "UX"
+    ]
+  },
+  {
+    "id": "ux-lead",
+    "title": "UX Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads UX for a project or product area.",
+    "responsibilities": [
+      "Lead UX definition",
+      "Guide team",
+      "Ensure quality",
+      "Solve complex problems"
+    ],
+    "skills": [
+      "Leadership",
+      "UX Strategy",
+      "Design",
+      "Communication"
+    ]
+  },
+  {
+    "id": "ux-researcher",
+    "title": "UX Researcher",
+    "orgLevel": "IC",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Conducts research to improve user experience.",
+    "responsibilities": [
+      "Usability testing",
+      "User interviews",
+      "Data analysis",
+      "Reporting"
+    ],
+    "skills": [
+      "Research Methods",
+      "Analysis",
+      "Empathy",
+      "Communication"
+    ]
+  },
+  {
+    "id": "ux-specialist",
+    "title": "UX Specialist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Focuses on specific UX problems or methods.",
+    "responsibilities": [
+      "Audit UX",
+      "Provide expert advice",
+      "Solve specific issues",
+      "Optimize flows"
+    ],
+    "skills": [
+      "UX Principles",
+      "Analysis",
+      "Problem Solving",
+      "Tools"
+    ]
+  },
+  {
+    "id": "ux-strategist",
+    "title": "UX Strategist",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Aligns UX efforts with business goals.",
+    "responsibilities": [
+      "Develop UX roadmap",
+      "Analyze business needs",
+      "Define KPIs",
+      "Prioritize features"
+    ],
+    "skills": [
+      "Strategy",
+      "Business Analysis",
+      "UX",
+      "Planning"
+    ]
+  },
+  {
+    "id": "ux-writer",
+    "title": "UX Writer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Writes copy for user interfaces to guide users.",
+    "responsibilities": [
+      "Write microcopy",
+      "Define voice and tone",
+      "Create content style guides",
+      "Collaborate with designers"
+    ],
+    "skills": [
+      "Writing",
+      "Content Strategy",
+      "UX",
+      "Empathy"
+    ]
+  },
+  {
+    "id": "ux-ui-designer",
+    "title": "UX/UI Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Generalist role covering both visual and experience design.",
+    "responsibilities": [
+      "Design high-fidelity UI",
+      "Map user flows",
+      "Prototype interactions",
+      "Maintain design system"
+    ],
+    "skills": [
+      "Figma",
+      "Visual Design",
+      "UX",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "ux-ui-lead",
+    "title": "UX/UI Lead",
+    "orgLevel": "Craft Lead",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Leads UX/UI design projects.",
+    "responsibilities": [
+      "Oversee design output",
+      "Lead design sprints",
+      "Mentor team",
+      "Client management"
+    ],
+    "skills": [
+      "Leadership",
+      "Design",
+      "Strategy",
+      "Communication"
+    ]
+  },
+  {
+    "id": "vibe-coder",
+    "title": "Vibe Coder",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Music",
+      "Tech"
+    ],
+    "description": "Creative coder focusing on atmosphere and feeling.",
+    "responsibilities": [
+      "Code visual effects",
+      "Sync visuals to audio",
+      "Create interactive art",
+      "Experiment with aesthetics"
+    ],
+    "skills": [
+      "Creative Coding",
+      "Shaders",
+      "Audio-Reactive",
+      "Art"
+    ]
+  },
+  {
+    "id": "vibe-designer",
+    "title": "Vibe Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Events",
+      "Hospitality"
+    ],
+    "description": "Curates the atmosphere and mood of a space or experience.",
+    "responsibilities": [
+      "Curate playlists/lighting",
+      "Design mood boards",
+      "Define sensory experience",
+      "Ensure consistency"
+    ],
+    "skills": [
+      "Curation",
+      "Aesthetics",
+      "Sensory Design",
+      "Mood"
+    ]
+  },
+  {
+    "id": "video-designer",
+    "title": "Video Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Media",
+      "Advertising"
+    ],
+    "description": "Creates video content for various platforms.",
+    "responsibilities": [
+      "Edit video footage",
+      "Add motion graphics",
+      "Color grading",
+      "Sound mixing"
+    ],
+    "skills": [
+      "Premiere Pro",
+      "After Effects",
+      "Storytelling",
+      "Editing"
+    ]
+  },
+  {
+    "id": "visual-designer",
+    "title": "Visual Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech",
+      "Agency"
+    ],
+    "description": "Focuses on the aesthetics and visual language of a product.",
+    "responsibilities": [
+      "Create visual concepts",
+      "Design icons and illustrations",
+      "Define color palettes",
+      "Polish UI designs"
+    ],
+    "skills": [
+      "Visual Design",
+      "Typography",
+      "Color Theory",
+      "Figma"
+    ]
+  },
+  {
+    "id": "voice-ui-designer",
+    "title": "Voice UI Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Sound"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Designs voice interactions and scripts.",
+    "responsibilities": [
+      "Write voice scripts",
+      "Design conversation flows",
+      "Test voice prototypes",
+      "Define persona"
+    ],
+    "skills": [
+      "Voice Design",
+      "Writing",
+      "Linguistics",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": "vp-of-design",
+    "title": "VP of Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech",
+      "Enterprise"
+    ],
+    "description": "Executive leading the entire design organization.",
+    "responsibilities": [
+      "Company-wide design strategy",
+      "Executive alignment",
+      "Org structure",
+      "Culture leadership"
+    ],
+    "skills": [
+      "Executive Leadership",
+      "Strategy",
+      "Business",
+      "Operations"
+    ]
+  },
+  {
+    "id": "vp-of-product-design",
+    "title": "VP of Product Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Executive leading product design.",
+    "responsibilities": [
+      "Product design vision",
+      "Scale design teams",
+      "Partner with CPO/CTO",
+      "Drive design impact"
+    ],
+    "skills": [
+      "Product Leadership",
+      "Strategy",
+      "Management",
+      "Scale"
+    ]
+  },
+  {
+    "id": "vp-of-research",
+    "title": "VP of Research",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Executive leading the research discipline.",
+    "responsibilities": [
+      "Research strategy",
+      "Influence product direction",
+      "Grow research org",
+      "Ensure rigor"
+    ],
+    "skills": [
+      "Research Leadership",
+      "Strategy",
+      "Operations",
+      "Analysis"
+    ]
+  },
+  {
+    "id": "vp-of-service-design",
+    "title": "VP of Service Design",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Service"
+    ],
+    "industry": [
+      "Service",
+      "Finance"
+    ],
+    "description": "Executive leading service design and transformation.",
+    "responsibilities": [
+      "Service strategy",
+      "Organizational transformation",
+      "Customer journey ownership",
+      "Leadership"
+    ],
+    "skills": [
+      "Service Design",
+      "Strategy",
+      "Leadership",
+      "Transformation"
+    ]
+  },
+  {
+    "id": "vp-of-ux",
+    "title": "VP of UX",
+    "orgLevel": "Strategic",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Executive leading User Experience.",
+    "responsibilities": [
+      "UX vision and strategy",
+      "Team growth",
+      "Cross-functional partnership",
+      "User advocacy"
+    ],
+    "skills": [
+      "UX Leadership",
+      "Strategy",
+      "Management",
+      "Business"
+    ]
+  },
+  {
+    "id": "vr-designer",
+    "title": "VR Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Tech"
+    ],
+    "description": "Designs virtual reality experiences.",
+    "responsibilities": [
+      "Design 3D interactions",
+      "Prototype VR environments",
+      "Consider motion sickness",
+      "Test on hardware"
+    ],
+    "skills": [
+      "Unity/Unreal",
+      "3D Design",
+      "Prototyping",
+      "Spatial UX"
+    ]
+  },
+  {
+    "id": "web-designer",
+    "title": "Web Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Agency",
+      "Tech"
+    ],
+    "description": "Designs websites and web pages.",
+    "responsibilities": [
+      "Design page layouts",
+      "Create responsive designs",
+      "Select typography/images",
+      "Basic HTML/CSS"
+    ],
+    "skills": [
+      "Web Design",
+      "Figma",
+      "HTML/CSS",
+      "Visual Design"
+    ]
+  },
+  {
+    "id": "world-builder",
+    "title": "World Builder",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Gaming",
+      "Metaverse"
+    ],
+    "description": "Creates immersive digital worlds and lore.",
+    "responsibilities": [
+      "Design world geography",
+      "Place environmental assets",
+      "Establish world rules",
+      "Create atmosphere"
+    ],
+    "skills": [
+      "Level Design",
+      "Storytelling",
+      "3D Art",
+      "Creativity"
+    ]
+  },
+  {
+    "id": "xr-designer",
+    "title": "XR Designer",
+    "orgLevel": "IC",
+    "medium": [
+      "Digital"
+    ],
+    "industry": [
+      "Tech"
+    ],
+    "description": "Designs for Extended Reality (AR/VR/MR).",
+    "responsibilities": [
+      "Design spatial interactions",
+      "Prototype XR experiences",
+      "Work with 3D assets",
+      "User testing in XR"
+    ],
+    "skills": [
+      "Spatial Computing",
+      "Unity",
+      "3D Design",
+      "Prototyping"
+    ]
+  }
+]
